@@ -1,0 +1,1635 @@
+﻿<Mappings><Entry OldName="RemoveDuplicateLines.ContextMenuHelper.DtFrom" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.ca993e966e6ad7bc80a84afde4c1aee88" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.DtLast" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.cd90b1bf86448d5a5933916cd2ffabb3c" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.DtTo" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.ca77fdb40d2bb130a554984ef4da73ebd" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.Ve" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.cbf3bad9fe93886e54a8dd30d64d8d018" />
+<Entry OldName="RemoveDuplicateLines.CustomForm.tooltip" NewName="RemoveDuplicateLines.CustomForm.cf88abb82773df53eb9f8a04113b018b3" />
+<Entry OldName="RemoveDuplicateLines.CustomForm.components" NewName="RemoveDuplicateLines.CustomForm.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.components" NewName="RemoveDuplicateLines.frmAbout.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.lblAbout" NewName="RemoveDuplicateLines.frmAbout.cb47a51e778260c6bc9f39ae2c6cee022" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnClose" NewName="RemoveDuplicateLines.frmAbout.cdf1e56d67080d2287c31789eb7d48821" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.pictureBox1" NewName="RemoveDuplicateLines.frmAbout.cb03f93bd6d09223cdc7563af6223efe4" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.linkLabel1" NewName="RemoveDuplicateLines.frmAbout.c1a03fdc8108db27419e22f4b3b514124" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.label1" NewName="RemoveDuplicateLines.frmAbout.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.label2" NewName="RemoveDuplicateLines.frmAbout.c7afef5be14cd698c5dd9a069e62390d9" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.linkLabel2" NewName="RemoveDuplicateLines.frmAbout.cafdb71eaee3db2b60b3ae122def4ac76" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.niceLine1" NewName="RemoveDuplicateLines.frmAbout.cfd5f9293dba69e839088cb6397c518a2" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.niceLine3" NewName="RemoveDuplicateLines.frmAbout.c5fca8cd5bd3e5a1b7be7107c2e682f76" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.label3" NewName="RemoveDuplicateLines.frmAbout.c5710e31d8f3bf6b7e2c5e2bb91d7d5e4" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.ullProductWebpage" NewName="RemoveDuplicateLines.frmAbout.c175bb5eab3c950798c4216b63f453034" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnBuy" NewName="RemoveDuplicateLines.frmAbout.c197b57f16a30f9ef76cf454d61984eaa" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.lblRegistered" NewName="RemoveDuplicateLines.frmAbout.c1dea9076dcfee623a4aeb726bf0197e6" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnRegister" NewName="RemoveDuplicateLines.frmAbout.cdea63e6f30e085036cf4aa91c7c6aac4" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.niceLine2" NewName="RemoveDuplicateLines.frmAbout.c2a35bf2340ae605783ad905ca77a5bb4" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.label4" NewName="RemoveDuplicateLines.frmAbout.c75bf7ee2065a2e774b0cb15c417be0fa" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.lblLicenseKey" NewName="RemoveDuplicateLines.frmAbout.ca76426abf23d6d4b0cec6192b98e8209" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.niceLine4" NewName="RemoveDuplicateLines.frmAbout.ca313a261852659d5e732768ff4e15622" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.label5" NewName="RemoveDuplicateLines.frmAbout.c716e53965e9c59b5daead9b199160362" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.components" NewName="RemoveDuplicateLines.frmAdeia.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.label1" NewName="RemoveDuplicateLines.frmAdeia.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.btnOK" NewName="RemoveDuplicateLines.frmAdeia.cf7f534305b30c26ecc6b828e7fff7a96" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.label2" NewName="RemoveDuplicateLines.frmAdeia.c7afef5be14cd698c5dd9a069e62390d9" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.btnExit" NewName="RemoveDuplicateLines.frmAdeia.c8ebfd0e30594553568942ebae662c2b1" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.lblAppName" NewName="RemoveDuplicateLines.frmAdeia.cc366f3cd1aa50132931257b560b1f8df" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.sOutputDir" NewName="RemoveDuplicateLines.frmBatch.c745c41ed5d6e94375313bf53a8b60f7c" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.bKeepBackup" NewName="RemoveDuplicateLines.frmBatch.c22569217a75b07d8c37dcdd2230c4ed8" />
+<Entry OldName="RemoveDuplicateLines.frmBatch._IsDirty" NewName="RemoveDuplicateLines.frmBatch.c451cb01bfa4a0be1855760310f5f1ef3" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.components" NewName="RemoveDuplicateLines.frmBatch.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.dgFiles" NewName="RemoveDuplicateLines.frmBatch.c682ad6a73f2b47a391cb524325a59012" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.colFilename" NewName="RemoveDuplicateLines.frmBatch.c26a0924562adec658b52557ef5d8fb30" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.colSize" NewName="RemoveDuplicateLines.frmBatch.c9110ba7baa2c7b732a139a9fcef3c28f" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.colFileDate" NewName="RemoveDuplicateLines.frmBatch.cc145efd287d1b9839500bd7e708d2fc7" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.colFullFilePath" NewName="RemoveDuplicateLines.frmBatch.ca843bf3485617f39623385734d94361b" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.toolStrip1" NewName="RemoveDuplicateLines.frmBatch.c26c0e1bdbdfb74589dc651aec1c492f1" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsbRemove" NewName="RemoveDuplicateLines.frmBatch.cdd27f6895f95b543812b2ad7532e2b12" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.toolStripSeparator3" NewName="RemoveDuplicateLines.frmBatch.c500fdf34c4c22cdbcbd474754d6bfc21" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.toolStripSeparator1" NewName="RemoveDuplicateLines.frmBatch.c9fda9535a5d2f5f0bced49969c6989f3" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsbMergeDocuments" NewName="RemoveDuplicateLines.frmBatch.ccde8efb9deb97343dc6bd7b762cbe39d" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.groupBox1" NewName="RemoveDuplicateLines.frmBatch.c33278194d6058e345f253e4dfdd79940" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.btnChangeFolder" NewName="RemoveDuplicateLines.frmBatch.c35e7534d5b08828eb1e2b7998fe9979e" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.btnOpenFolder" NewName="RemoveDuplicateLines.frmBatch.c0f656bf18a0b71787960a5f4c294707e" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.lblTotal" NewName="RemoveDuplicateLines.frmBatch.cf77c6fdb0e3c3174b55f6a60e6d3b3ae" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.cmsFiles" NewName="RemoveDuplicateLines.frmBatch.c5d616c59be344180008bf25ac521c220" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.openToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.cd7f238bbaebddb8a31427c88099d98dc" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.exploreToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c8dd7c69bec9884321fa020d8f2b54106" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.copyFullFilePathToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c0f020919361be15f01d5455bbb877b88" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.folderBrowserDialog1" NewName="RemoveDuplicateLines.frmBatch.ce397459fa45429ec9ec599aa1d22b77c" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.openFileDialog1" NewName="RemoveDuplicateLines.frmBatch.c293ffe8d5d10092ce6f3b9dbc3105e26" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.chkParentFolder" NewName="RemoveDuplicateLines.frmBatch.c1da1e8f172104a4da0d950f64a76d457" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.chkKeepBackup" NewName="RemoveDuplicateLines.frmBatch.cdc8b8b521ceeac22c1b0dd36347de222" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.menuStrip1" NewName="RemoveDuplicateLines.frmBatch.c6f000023a02a2277101028598f2c569c" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.sortingToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c128c5ad5f0fd888c3fbca3de2a868726" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.donotSortToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.caa30e7938062a7bfb4819b605e72685b" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.sortAscendingToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.cc883e270d1c53154fe86c04a9258733e" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.sortDescendingToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c94a776fdf0bf44492b34d066ec9cf25a" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.optionsToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c22dba636d86b40978ff1b1bf41d5a82d" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.caseSensitiveStringComparisonToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c29ac11f03268270c097e9395618ade33" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.toolsToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c355684825819c57aca6ee8f545f09b4c" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.rEMOVEDUPLICATESToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.c71d4d383cb8bcf0fe84e791d87bfabf3" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.findWordsNotLinesToolStripMenuItem" NewName="RemoveDuplicateLines.frmBatch.cdb7c70e857a26b298259cabd1eb4c2c5" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate._DownloadFile" NewName="RemoveDuplicateLines.frmDownloadUpdate.cc4bbbd7b8ba984346a61f0b3ecb871da" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.components" NewName="RemoveDuplicateLines.frmDownloadUpdate.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.pgBar" NewName="RemoveDuplicateLines.frmDownloadUpdate.c90fe8fc3921de41686cfc963b711babb" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.btnCancelDownload" NewName="RemoveDuplicateLines.frmDownloadUpdate.c232c4f5df0d42711688d03fb646fea78" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.bwDownload" NewName="RemoveDuplicateLines.frmDownloadUpdate.c19e9f535177c41ffa909ffeefa9345d4" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.label1" NewName="RemoveDuplicateLines.frmDownloadUpdate.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.lblTotalSize" NewName="RemoveDuplicateLines.frmDownloadUpdate.c4a1af6afb4b1c01e3dd0c4d7724ca106" />
+<Entry OldName="RemoveDuplicateLines.frmError.components" NewName="RemoveDuplicateLines.frmError.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmError.txtError" NewName="RemoveDuplicateLines.frmError.c183100dbb6676dd054500635c220a319" />
+<Entry OldName="RemoveDuplicateLines.frmError.pictureBox1" NewName="RemoveDuplicateLines.frmError.cb03f93bd6d09223cdc7563af6223efe4" />
+<Entry OldName="RemoveDuplicateLines.frmError.btnClose" NewName="RemoveDuplicateLines.frmError.cdf1e56d67080d2287c31789eb7d48821" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.components" NewName="RemoveDuplicateLines.frmLanguage.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.label1" NewName="RemoveDuplicateLines.frmLanguage.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.cmbLanguage" NewName="RemoveDuplicateLines.frmLanguage.c28c76ce912a0f69197bae49d9b9689f4" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.btnOK" NewName="RemoveDuplicateLines.frmLanguage.cf7f534305b30c26ecc6b828e7fff7a96" />
+<Entry OldName="RemoveDuplicateLines.frmMain.SourceString" NewName="RemoveDuplicateLines.frmMain.cd0049d20cf2496101d6259966331dcab" />
+<Entry OldName="RemoveDuplicateLines.frmMain.InChangeLanguage" NewName="RemoveDuplicateLines.frmMain.c9d1e7e4be241b3d45a400162cc470959" />
+<Entry OldName="RemoveDuplicateLines.frmMain.components" NewName="RemoveDuplicateLines.frmMain.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmMain.menuStrip1" NewName="RemoveDuplicateLines.frmMain.c6f000023a02a2277101028598f2c569c" />
+<Entry OldName="RemoveDuplicateLines.frmMain.fileToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cce2bf12247fc9df1d2cc22eb5db72e30" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolStripMenuItem2" NewName="RemoveDuplicateLines.frmMain.ca80f8dcfcef497aa8db8fba4d5142dcd" />
+<Entry OldName="RemoveDuplicateLines.frmMain.exitToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cc926de3b7a2cd17201909f1af2a2c314" />
+<Entry OldName="RemoveDuplicateLines.frmMain.editToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c1743117389bbec411fe4955d81e0daf1" />
+<Entry OldName="RemoveDuplicateLines.frmMain.clearToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cf87feefc28c0e37ae8c6133420ba14f6" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiSelectAllResult" NewName="RemoveDuplicateLines.frmMain.ca6c67bfc8ae6282f7f62aebf9146b8ba" />
+<Entry OldName="RemoveDuplicateLines.frmMain.optionsToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c22dba636d86b40978ff1b1bf41d5a82d" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolsToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c355684825819c57aca6ee8f545f09b4c" />
+<Entry OldName="RemoveDuplicateLines.frmMain.languageToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c4ae0bca5debe59567833d282bbcb0dc0" />
+<Entry OldName="RemoveDuplicateLines.frmMain.languages1ToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c3e3d185b31aa2ae4e7d29172525926f0" />
+<Entry OldName="RemoveDuplicateLines.frmMain.languages2ToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c14e585668724ccc6fd72bf9684938954" />
+<Entry OldName="RemoveDuplicateLines.frmMain.buyToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c5e98538c11d2efcb8aa237e59f79ae05" />
+<Entry OldName="RemoveDuplicateLines.frmMain.buyApplicationToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c6f0d2a7b2be758fac773439d0ec91e41" />
+<Entry OldName="RemoveDuplicateLines.frmMain.enterLicenseKeyToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c2a0af08dad908714ae0bea7f79953ad3" />
+<Entry OldName="RemoveDuplicateLines.frmMain.helpToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c7a16ff0813129cc3bfcea757a5f3ce52" />
+<Entry OldName="RemoveDuplicateLines.frmMain.helpGuideToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c4f4c07fbc77bbf5a680867f7aae1f069" />
+<Entry OldName="RemoveDuplicateLines.frmMain.pleaseDonateToolStripMenuItem1" NewName="RemoveDuplicateLines.frmMain.c44267c211ab9b46b0b16f8d735d191ab" />
+<Entry OldName="RemoveDuplicateLines.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c82c9ce45825a76e9c62d3f06bcc89cf9" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiHelpFeedback" NewName="RemoveDuplicateLines.frmMain.c13dd91e885242e974cdd4937c6936bbd" />
+<Entry OldName="RemoveDuplicateLines.frmMain.checkForNewVersionToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c3e0dd8afbebf13fe825c62ce6bf53a07" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolStripMenuItem1" NewName="RemoveDuplicateLines.frmMain.cd0f1351fcd1a6f2ee3c1ee34c9346dea" />
+<Entry OldName="RemoveDuplicateLines.frmMain.followUsOnTwitterToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c11901ac5e7d3e7916a03abacae30dc63" />
+<Entry OldName="RemoveDuplicateLines.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cf86979fce8b3076d8f42de7c90778367" />
+<Entry OldName="RemoveDuplicateLines.frmMain.aboutToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c1c99eddeb31ffeefb138645357b900d7" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolStrip1" NewName="RemoveDuplicateLines.frmMain.c26c0e1bdbdfb74589dc651aec1c492f1" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbRemoveDuplicates" NewName="RemoveDuplicateLines.frmMain.cb07be471fcc2d777918a617b413967a9" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtSource" NewName="RemoveDuplicateLines.frmMain.c49feae103d844d546de4165296ab6130" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtResult" NewName="RemoveDuplicateLines.frmMain.c753756afd38ed4edce1eaba857ec4643" />
+<Entry OldName="RemoveDuplicateLines.frmMain.sortingToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c128c5ad5f0fd888c3fbca3de2a868726" />
+<Entry OldName="RemoveDuplicateLines.frmMain.donotSortToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.caa30e7938062a7bfb4819b605e72685b" />
+<Entry OldName="RemoveDuplicateLines.frmMain.sortAscendingToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cc883e270d1c53154fe86c04a9258733e" />
+<Entry OldName="RemoveDuplicateLines.frmMain.sortDescendingToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c94a776fdf0bf44492b34d066ec9cf25a" />
+<Entry OldName="RemoveDuplicateLines.frmMain.lblSource" NewName="RemoveDuplicateLines.frmMain.c5fecfad5c95b7df6aab3a29b2c0fe474" />
+<Entry OldName="RemoveDuplicateLines.frmMain.lblResult" NewName="RemoveDuplicateLines.frmMain.c93b2e78600708dd0c684b2d186f2681b" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnCopyResult" NewName="RemoveDuplicateLines.frmMain.c691a5e1214305ed8d97d29d8a9628b8a" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnClearResult" NewName="RemoveDuplicateLines.frmMain.ca76d266ffaa0860bca2fa8cde449e411" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnClearSource" NewName="RemoveDuplicateLines.frmMain.c9ee194d41fd01d4e0055b02caadf92ac" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnCopySource" NewName="RemoveDuplicateLines.frmMain.c028e0ac9a0071493aab04a3a81a94ce9" />
+<Entry OldName="RemoveDuplicateLines.frmMain.caseSensitiveStringComparisonToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c29ac11f03268270c097e9395618ade33" />
+<Entry OldName="RemoveDuplicateLines.frmMain.rEMOVEDUPLICATESToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c71d4d383cb8bcf0fe84e791d87bfabf3" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbOpenDocument" NewName="RemoveDuplicateLines.frmMain.ccbc7da3057faa6fc55c535173beacb0b" />
+<Entry OldName="RemoveDuplicateLines.frmMain.openDocumentToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cece7da8844c98502ff5da981f4ef4eb3" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiSelectAllSource" NewName="RemoveDuplicateLines.frmMain.c4a665d1d7fb699c570d587d35d1c1162" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtFindSource" NewName="RemoveDuplicateLines.frmMain.c973a26c6e8d8bece50ef031709b916e8" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnNextSource" NewName="RemoveDuplicateLines.frmMain.cd9d4ed6c488256bcc42ddeb2f86a7211" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnPrevSource" NewName="RemoveDuplicateLines.frmMain.c13593a0c66066e45b0f593a4c9e350ed" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnPrevResult" NewName="RemoveDuplicateLines.frmMain.cb2fe0c73b10b2f5cf8e5916a1ea85cd4" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnNextResult" NewName="RemoveDuplicateLines.frmMain.c5040ca391e43415ede8139e1f4d3ed47" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtFindResult" NewName="RemoveDuplicateLines.frmMain.c94da766071b0a467e39b3746b4e7e55e" />
+<Entry OldName="RemoveDuplicateLines.frmMain.findWordsNotLinesToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cdb7c70e857a26b298259cabd1eb4c2c5" />
+<Entry OldName="RemoveDuplicateLines.frmMain.clearResultToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cc13916c5a443d4804c7eb492b3e69533" />
+<Entry OldName="RemoveDuplicateLines.frmMain.statusStrip1" NewName="RemoveDuplicateLines.frmMain.c42be234e139a6f129921e391b5c6222e" />
+<Entry OldName="RemoveDuplicateLines.frmMain.pgbar" NewName="RemoveDuplicateLines.frmMain.c471ba58fd9ef7f8eaa7984b79ec31a7c" />
+<Entry OldName="RemoveDuplicateLines.frmMain.batchRemoveDuplicatesForManyFilesToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.ca072d9110d3a8036223a2a3b508343a4" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbSaveResult" NewName="RemoveDuplicateLines.frmMain.c02b6c9e75bb0d5dcf12164a57809d6eb" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolStripSeparator1" NewName="RemoveDuplicateLines.frmMain.c9fda9535a5d2f5f0bced49969c6989f3" />
+<Entry OldName="RemoveDuplicateLines.frmMain.saceResultToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cb7ced413ed4501dcc32c73ef3e76cd31" />
+<Entry OldName="RemoveDuplicateLines.frmMain.toolStripMenuItem3" NewName="RemoveDuplicateLines.frmMain.c5e7836675d4e7aa2d6d522a2334e0759" />
+<Entry OldName="RemoveDuplicateLines.frmMain.checkForUpdatesEachWeekToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.cfefa240660fb28e1d3fe895eaf15215d" />
+<Entry OldName="RemoveDuplicateLines.frmMain.commandLineArgumentsToolStripMenuItem" NewName="RemoveDuplicateLines.frmMain.c241be5178a185caac36c12ec58c54e81" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.ForCommandLineArgs" NewName="RemoveDuplicateLines.frmMessage.ceae828fbcddc51591970b00f98de6ca3" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.components" NewName="RemoveDuplicateLines.frmMessage.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.btnOK" NewName="RemoveDuplicateLines.frmMessage.cf7f534305b30c26ecc6b828e7fff7a96" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.btnCopy" NewName="RemoveDuplicateLines.frmMessage.c754c114ced329d6e6ae8a7f54e9a7111" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.components" NewName="RemoveDuplicateLines.frmOutputSubFolder.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.btnOK" NewName="RemoveDuplicateLines.frmOutputSubFolder.cf7f534305b30c26ecc6b828e7fff7a96" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.btnCancel" NewName="RemoveDuplicateLines.frmOutputSubFolder.cf8da5bd748db8ee726eb9617ed4d5f0d" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.label1" NewName="RemoveDuplicateLines.frmOutputSubFolder.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.frmProgress._Instance" NewName="RemoveDuplicateLines.frmProgress.ccfdc312478317b9f5f30778c9ad7af21" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.components" NewName="RemoveDuplicateLines.frmProgress.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.lblRemainingTime" NewName="RemoveDuplicateLines.frmProgress.c436b7e5c8210a3be0721086db125db97" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.lblElapsedTime" NewName="RemoveDuplicateLines.frmProgress.ca547f1e726becc1854a317c0e6ea03fd" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.lblTotal" NewName="RemoveDuplicateLines.frmProgress.cf77c6fdb0e3c3174b55f6a60e6d3b3ae" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.components" NewName="RemoveDuplicateLines.frmPurchase.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnBuy" NewName="RemoveDuplicateLines.frmPurchase.c197b57f16a30f9ef76cf454d61984eaa" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.lblMsg" NewName="RemoveDuplicateLines.frmPurchase.c99f231721fb50a1699e9900123d743a0" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnClose" NewName="RemoveDuplicateLines.frmPurchase.cdf1e56d67080d2287c31789eb7d48821" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.lblWait" NewName="RemoveDuplicateLines.frmPurchase.c387b60d34782c158325da2efdc2a90c0" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.timContinue" NewName="RemoveDuplicateLines.frmPurchase.c28463467b495df9cd9d25685606dbea5" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.lblAppName" NewName="RemoveDuplicateLines.frmPurchase.cc366f3cd1aa50132931257b560b1f8df" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnRegister" NewName="RemoveDuplicateLines.frmPurchase.cdea63e6f30e085036cf4aa91c7c6aac4" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.label1" NewName="RemoveDuplicateLines.frmPurchase.ce533ceae2f76c636da3594100161e01b" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox.imageList" NewName="A.c63daa26517e778c8c9c335b931adf446.ca7b1471aee60c2c8dc9857beb515c1d2" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem._text" NewName="A.c689b75f73a28ca38c05902834ad97322.c85d7d949bd3d43c7b25f9c56b132d4f3" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem._imageIndex" NewName="A.c689b75f73a28ca38c05902834ad97322.ca0922430434e272a72ed4e96fe4a9dc4" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper.DtFrom" NewName="A.c34facc16491a2eef301e65015c847f9f.ca993e966e6ad7bc80a84afde4c1aee88" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper.DtLast" NewName="A.c34facc16491a2eef301e65015c847f9f.cd90b1bf86448d5a5933916cd2ffabb3c" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper.frmad" NewName="A.c6146ebcdb975305cea818f19ca249f12.c81fc931186baa1b86d56e0859bb655b5" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper.DateTimeFormat" NewName="A.ce03f1d958a56389b2c85e4397067d528.cb364e58f90965288fe427e465f0234f6" />
+<Entry OldName="RemoveDuplicateLines.Module.BlueForeColor" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cb92a2e10470d1c526d7c6b2e4435d1a1" />
+<Entry OldName="RemoveDuplicateLines.Module.ApplicationName" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.ccfde3a193d7b655cd11f5baccf136c69" />
+<Entry OldName="RemoveDuplicateLines.Module.Version" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c78261f95a6474d2ea7d199f0eadeb7bb" />
+<Entry OldName="RemoveDuplicateLines.Module.Ver" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c33c163a8574b2ae7f530a655278bb557" />
+<Entry OldName="RemoveDuplicateLines.Module.ShortApplicationTitle" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cd135447e4ee8f0d233a098be09d0f1b3" />
+<Entry OldName="RemoveDuplicateLines.Module.ApplicationTitle" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cd374b3a1b89810b10468459fff0f67f9" />
+<Entry OldName="RemoveDuplicateLines.Module.DownloadURL" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c9f43eba35a118f98708042a822addc6b" />
+<Entry OldName="RemoveDuplicateLines.Module.HelpURL" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c2b168c9a200debf54a4b0f4ff6c57760" />
+<Entry OldName="RemoveDuplicateLines.Module.ProductWebpageURL" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c673e31d5c929bd002d8cc50ddc0a1de3" />
+<Entry OldName="RemoveDuplicateLines.Module.BuyURL" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cb6db1d387693c8aed5300d3b7505bced" />
+<Entry OldName="RemoveDuplicateLines.Module.VersionURL" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c85116043d7b961d104d3be30d64d89d1" />
+<Entry OldName="RemoveDuplicateLines.Module.TipText" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c6b38eb7f69949294b7e2cd56784bda94" />
+<Entry OldName="RemoveDuplicateLines.Module.GeneratedTemporaryFiles" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c27dde815514928bc0029553c6f681897" />
+<Entry OldName="RemoveDuplicateLines.Module.TempFolders" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cc747e5c70ec8a983489944df80132de4" />
+<Entry OldName="RemoveDuplicateLines.Module.OpenImagesFilter" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c05e2e868efeccac123079958ffa77760" />
+<Entry OldName="RemoveDuplicateLines.Module.OpenFilesFilter" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c620d46bdbd1ed134235ceaa5e1a9ded8" />
+<Entry OldName="RemoveDuplicateLines.Module.AcceptableMediaInputPattern" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c00f2187e9bdf39684047606156193a32" />
+<Entry OldName="RemoveDuplicateLines.Module._TempFolder" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c27c47090adf976267df7276dfdc56004" />
+<Entry OldName="RemoveDuplicateLines.Module.ScheduleMode" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c93a5841d0ccf33de265ccecca23c192b" />
+<Entry OldName="RemoveDuplicateLines.Module.StealthMode" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c28039f8a639a4bf24be0e2b3afe0216a" />
+<Entry OldName="RemoveDuplicateLines.Module._ProfilesFile" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cc95eda0b6be6eb04293b26b59925adec" />
+<Entry OldName="RemoveDuplicateLines.Module._VideoOptionsFile" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c884321bd1d0c203fb643aa211042a9c4" />
+<Entry OldName="RemoveDuplicateLines.Module.AppDataDirectory" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cdc449a6a319367d8d891c2eac316b434" />
+<Entry OldName="RemoveDuplicateLines.Module.CurrentImagesDirectory" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c8f1c537cb114bd264a28d66367e12193" />
+<Entry OldName="RemoveDuplicateLines.Module.SelectedLanguage" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c23de9ecb1c98824b76ef8abb648aa255" />
+<Entry OldName="RemoveDuplicateLines.Module.args" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c8ba21db0e8fb9b2df083a6a7c28b0778" />
+<Entry OldName="RemoveDuplicateLines.Module.IsCommandLine" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c074ab60123de25b20dba09355aa5087e" />
+<Entry OldName="RemoveDuplicateLines.Module.IsFromWindowsExplorer" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c10461621c2acce3a059e47fad84d53d9" />
+<Entry OldName="RemoveDuplicateLines.Module.DoNotOverwriteFiles" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.ce04490036c937f66b57a6b7b5e78dd58" />
+<Entry OldName="RemoveDuplicateLines.Module.AskBeforeOverwrite" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c888b39188af3330a99222b737a7e2b82" />
+<Entry OldName="RemoveDuplicateLines.Module.LeaveSameDateTime" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c19f3be0816c8aff0a7961832ad77680d" />
+<Entry OldName="RemoveDuplicateLines.Module.OutputFilepath" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c1fefaac833f437cf4eaa7b1bc6f22fb6" />
+<Entry OldName="RemoveDuplicateLines.Module._Modex64" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c0ea18566aef31374371812240e4ec169" />
+<Entry OldName="RemoveDuplicateLines.NiceLine.components" NewName="RemoveDuplicateLines.NiceLine.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.NiceLine._Caption" NewName="RemoveDuplicateLines.NiceLine.c537a126f160c3b1be388cee0608f8dd3" />
+<Entry OldName="RemoveDuplicateLines.NiceLine._CaptionMarginSpace" NewName="RemoveDuplicateLines.NiceLine.c622ccab905cacb7831388c44c46d53bb" />
+<Entry OldName="RemoveDuplicateLines.NiceLine._CaptionPadding" NewName="RemoveDuplicateLines.NiceLine.c88f8ad0bc4ae2fb71fa81d6511eedd1f" />
+<Entry OldName="RemoveDuplicateLines.NiceLine._LineVerticalAlign" NewName="RemoveDuplicateLines.NiceLine.c5bac89ce94dee93931f00ab0463e6ce8" />
+<Entry OldName="RemoveDuplicateLines.NiceLine._CaptionOrizontalAlign" NewName="RemoveDuplicateLines.NiceLine.cfd894d5cdc553ec009a015c23f829746" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.WordApp" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c4a463bf459ccd7ad4fef6bff52c83558" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.WordApplicationType" NewName="A.c29c3230d2e55f2d5721786a9314a563c.cd1018c3666849b6e28de386657623466" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.ExcelApp" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c8308edf61ecfdadfb414e418ec8c5a31" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.PPApp" NewName="A.c29c3230d2e55f2d5721786a9314a563c.ccbf2511850d5f3aacb0fe3213a553500" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.ExcelApplicationType" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c34f995ebc19d797b52b8e54e0a73ebfb" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.PPApplicationType" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c882c1c9c322216b1122e8a3a6794947c" />
+<Entry OldName="RemoveDuplicateLines.Program.ATTACH_PARENT_PROCESS" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c6a1bb1894064e593611b9a4bef5eb1ab" />
+<Entry OldName="RemoveDuplicateLines.Program.ERROR_ACCESS_DENIED" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c9fc95dc060a9199820a1bab763c96d18" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.resourceMan" NewName="A.c96f0585d837e28e778285716f2ea0457.c9a9d330a2c730386deb1c77f6e17be4e" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.resourceCulture" NewName="A.c96f0585d837e28e778285716f2ea0457.cc60fb5ce647ce4e98a8e71218537d5d5" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.resourceMan" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.c9a9d330a2c730386deb1c77f6e17be4e" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.resourceCulture" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.cc60fb5ce647ce4e98a8e71218537d5d5" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate.resourceMan" NewName="A.cd13024b7761b86761653679c767abc45.c9a9d330a2c730386deb1c77f6e17be4e" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate.resourceCulture" NewName="A.cd13024b7761b86761653679c767abc45.cc60fb5ce647ce4e98a8e71218537d5d5" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper.rm" NewName="A.c09228fff0ab735617d892154bddde56f.c1f9ce0999cdfa8a726955a144dbd3791" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper.rm2" NewName="A.c09228fff0ab735617d892154bddde56f.c5353727a75feab745e8f6ac7231b6304" />
+<Entry OldName="RemoveDuplicateLines.ucTextProgressBar.WmPaint" NewName="RemoveDuplicateLines.ucTextProgressBar.c7552ae299c811bbe389e093a0cb9d5c5" />
+<Entry OldName="RemoveDuplicateLines.ucTextProgressBar.components" NewName="RemoveDuplicateLines.ucTextProgressBar.c1980712ed629cfc4d82db4e1a038a33a" />
+<Entry OldName="RemoveDuplicateLines.UpdateHelper.bwCheckVersion" NewName="RemoveDuplicateLines.UpdateHelper.c8bec8d3baf478d0959502a684722f987" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.resourceMan" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.c9a9d330a2c730386deb1c77f6e17be4e" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.resourceCulture" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.cc60fb5ce647ce4e98a8e71218537d5d5" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper..ctor()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.ExamineArgs(String[] args)" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.c9f247a30ed937a350abf282c5dca9858(String[] c8ba21db0e8fb9b2df083a6a7c28b0778)" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.GetParameter(String arg)" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.c4e22094caf68f04870c430c692689e20(String ce0f4c3f499ee2765aaa75a9b553399d0)" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.SplitArguments(String commandLine)" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.c001acf2c18c16cca99f30d31af56448a(String cbbc85fd22f1823c093377ae76766a609)" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.ShowCommandUsage()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.c97175668704a697ea5644738620b0919()" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.GetCommandUsage()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.c3572555cc3e9e401a2d745fd80ed0647()" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.get_IsFromWindowsExplorer()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.get_c10461621c2acce3a059e47fad84d53d9()" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.get_IsFromCommandLine()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.get_cefcd3a79a7e6e57da225a640b1a120d1()" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper.ExecuteCommandLine()" NewName="A.c2be8a9aad605616c03e75b9c57ef107f.cbfea8d3202b93aa147eaeeea8b6007d3()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper..ctor()" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper..cctor()" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4..cctor()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.cbe2b92db9f86f76af41b61bc3a9da029(String c670f025a358f1ddf0b886f7edd8dd1bc, StringBuilder cbb75cb05f5495c7fd320852cf49ba5e5, UInt32 cf0cd661374515f118354254006b236bc, UInt32&amp; cf5b8c4eeb7ccfe0de902c8dad1eeec33, UInt32&amp; ced254898034253097d0f277ae7491505, UInt32&amp; c81820689abf12bfa7511c8b65d63b100, StringBuilder cc7f94c02e0c46135a85e19c3ad9e86f9, UInt32 c2cc230db62459be84f06108e4a68194e)" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.DisplayContextMenu()" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.c324a1bd6278dd2e52bfe75a20515853e()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.HideContextMenu()" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.c81372e3f0a1e2b4cc1402f5166bf1259()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.WriteTest()" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.c72dccae5de0db63c0cba7d6b74badbf7()" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper.ParseDate(String datestr)" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4.c46433dceb2c5f7e51c4b45396eca110a(String c3827205ff680d522ec1d67dffc278ff1)" />
+<Entry OldName="RemoveDuplicateLines.CustomForm.CustomForm2_Activated(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.CustomForm.ccf039988cf5c3c61c87a1840827fee57(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.CustomForm.ResizeChildControls(Control co)" NewName="RemoveDuplicateLines.CustomForm.c53464dae49ab068f75aa660d850401ac(Control c98b75de84535cb0710b2785ad1c664f3)" />
+<Entry OldName="RemoveDuplicateLines.CustomForm.InitializeComponent()" NewName="RemoveDuplicateLines.CustomForm.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.ExceptionHandlersHelper..ctor()" NewName="A.cbc9c4bfccc1d352a1b4bb03c3c81257c..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.cbc9c4bfccc1d352a1b4bb03c3c81257c.cc1204725cb74025b38a9367178415cdf()" />
+<Entry OldName="RemoveDuplicateLines.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.cbc9c4bfccc1d352a1b4bb03c3c81257c.c2dc24164e0f9b17917cc8aba4d5a675a(Object c5a573a9fb29cfbecdb42fc7a10a73fce, UnhandledExceptionEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.cbc9c4bfccc1d352a1b4bb03c3c81257c.c52bae048528275dcc240e6f3e406c7dc(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ThreadExceptionEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAbout.c0ca9d8d12d2438ef54f69037f553e963(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAbout.cd485d874a2e4e0b09758862363ddab96(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="RemoveDuplicateLines.frmAbout.c87da9b9a95dd1f37f5f601e668911a4b(Object c5a573a9fb29cfbecdb42fc7a10a73fce, LinkLabelLinkClickedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="RemoveDuplicateLines.frmAbout.c4ce1fe2b3db01246404fa096c0fbc4f4(Object c5a573a9fb29cfbecdb42fc7a10a73fce, LinkLabelLinkClickedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnBuy_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAbout.c10c29df45d9cafae890a861598bae201(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.btnRegister_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAbout.c73a6648df4786f5a60adce009c78814d(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAbout.InitializeComponent()" NewName="RemoveDuplicateLines.frmAbout.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.btnOK_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAdeia.c9c8454fd7faf482103b0f6dfaeeb10fb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.btnExit_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAdeia.c46bd98a5c9302b21234949e3ef736333(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.frmAdeia_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmAdeia.c4363fc64d4990403ed725bb6ec368fce(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmAdeia.InitializeComponent()" NewName="RemoveDuplicateLines.frmAdeia.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.get_IsDirty()" NewName="RemoveDuplicateLines.frmBatch.get_c397bf8e4cd2ee7a84f3457b84b0f82e6()" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.set_IsDirty(Boolean value)" NewName="RemoveDuplicateLines.frmBatch.set_c397bf8e4cd2ee7a84f3457b84b0f82e6(Boolean c7c8b39a7f644278556e9d4eb6d3d8c36)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.frmBatch_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.ce5f81f6c2039306944005012dd6f88c3(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbAddFile_ButtonClick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c346e5122036bb5a9e7f02685b4baca3c(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbAddFile_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cc97018510379287bb036476c22d0b1fb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ToolStripItemClickedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsbRemove_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c619e84cc565ad312a316a93e46c7b293(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbAddFolder_ButtonClick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.ca42fd2d519699aeac7b24d54322134e0(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c2bb8b605767df29bc2cd2b7c803e0791(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ToolStripItemClickedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cbed12b3c156cb6197376421de55729d3(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cda775430d0c321aa01a0b3285000a44b(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ToolStripItemClickedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c0d9d805f269509d32b0479835755c3f0(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c3c7f18551a72b9f43b160589d67b3d48(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.copyFullFilePathToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c3ae0489902d8f57ca3613cd12d88345c(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.cmsFiles_Opening(Object sender, CancelEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c6b99594d00874eac521de93a65122214(Object c5a573a9fb29cfbecdb42fc7a10a73fce, CancelEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.ced997f60f11df68463c7f658bf919071(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c33cdc5b2768ad835022c3f817048bfd9(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c0ff43194f36b104a7a5884b73bf6d269(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.cmsFiles_Opening_1(Object sender, CancelEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cb486144e38d762a1477f14d66abb50bd(Object c5a573a9fb29cfbecdb42fc7a10a73fce, CancelEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.chkParentFolder_CheckedChanged(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c3bdb8bfd9964834a081dcab6b160ba93(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.btnChangeFolder_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cfa0361e68ac580e5d0fd502a3b35b729(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.btnOpenFolder_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cf6f6dff6db5d3c82e4d5e128aa626650(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.SetupOutputFolders()" NewName="RemoveDuplicateLines.frmBatch.ca9921b9cfe4c610b9259079f6d2a733f()" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.chkKeepBackup_CheckedChanged(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.ced18cab59d842562fda1c4927ae9918e(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.cmbOutputDir_SelectedIndexChanged(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c04da2407d9af068adc64c2e6c0aed7f5(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.tsbReplaceDuplicates_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c6291950dee5ef78aaba042caa26b174c(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.bw_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.c15c0ae8eb97ef0a6c6783063f41a9104(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ProgressChangedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.bw_DoWork(Object sender, DoWorkEventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cb8c1d48c223ebd0caeb82bec977b0417(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DoWorkEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.donotSortToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmBatch.cc4b7f3cf026308d9c35f69130cfd1d73(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmBatch.InitializeComponent()" NewName="RemoveDuplicateLines.frmBatch.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmDownloadUpdate.c0668383dd158be22c9451fbc98881feb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="RemoveDuplicateLines.frmDownloadUpdate.c8ac43fcd672ee526e5efa36275f350dd(Object c5a573a9fb29cfbecdb42fc7a10a73fce, AsyncCompletedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="RemoveDuplicateLines.frmDownloadUpdate.c45d02d6968fe69f82f101cc9dffc3c1c(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DownloadProgressChangedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmDownloadUpdate.cd48e1530eec8f6803ae5399a7b69b99d(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmDownloadUpdate.InitializeComponent()" NewName="RemoveDuplicateLines.frmDownloadUpdate.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmError.cd485d874a2e4e0b09758862363ddab96(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmError.InitializeComponent()" NewName="RemoveDuplicateLines.frmError.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmLanguage.c9c8454fd7faf482103b0f6dfaeeb10fb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmLanguage.cd1b7ab561e44d29e7b79692e54092814(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmLanguage.InitializeComponent()" NewName="RemoveDuplicateLines.frmLanguage.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c0d462a46da501d4e331414a0778fd8c2(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cbf7cd021d675b380163345cf1a89902a(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_ResizeEnd(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c6eac450936f0caec450bae3146711ffe(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_Activated(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.caed9842362d35ac5a3742fba658411ba(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnCopySource_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c9c83bc0b504fabdebb1276d9c68b7037(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnCopyResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c1cd3b96bb17b04e268de9e7a71e9af90(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnClearSource_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c907ed82eee0b8f457221fe2f7593b27e(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnClearResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cc5ac81afcc57f7cb5d88b3ab64da6492(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbRemoveDuplicates_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c9885549cb9d0f4b5f8e37d1660ecc5c9(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.bwAction_DoWork(Object sender, DoWorkEventArgs e)" NewName="RemoveDuplicateLines.frmMain.cdc2106b1d890d9799af3f41ed78ca616(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DoWorkEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.bwAction_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="RemoveDuplicateLines.frmMain.cf724174271ce09a565c1d7a4ceafac13(Object c5a573a9fb29cfbecdb42fc7a10a73fce, RunWorkerCompletedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.caseSensitiveStringComparisonToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c540304a926071a6f2f6315cd9a68b808(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.donotSortToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cc4b7f3cf026308d9c35f69130cfd1d73(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.sortAscendingToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.caa4b21a25f3be7f59043710e68a8327e(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.sortDescendingToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c102d62d9c497de958f8f17e2160bc4c6(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="RemoveDuplicateLines.frmMain.c721a36d59a1226415f8b988059401efd(Object c5a573a9fb29cfbecdb42fc7a10a73fce, FormClosingEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbOpenDocument_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c155b2cccb0f8e137a0e512335654c57a(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiSelectAllSource_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c5839b19b1257edd1ea645fda72b716e3(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiSelectAllResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c5af5ee377ed249a010687846f9d1d5b1(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnNextSource_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c8e66852d63a832a9ea8e9f6352508b62(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnPrevSource_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c6c3e28b876c451f583a589fb15e68f1a(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtFindSource_KeyPress(Object sender, KeyPressEventArgs e)" NewName="RemoveDuplicateLines.frmMain.c16441a47744bcaa9f5eb50fd5ff1da28(Object c5a573a9fb29cfbecdb42fc7a10a73fce, KeyPressEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnNextResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c9a0c286384b528c251ccafb84d3f7aa5(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.btnPrevResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c114b542f920926a96d797e151b12c282(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.txtFindResult_KeyPress(Object sender, KeyPressEventArgs e)" NewName="RemoveDuplicateLines.frmMain.c0bf49909bf39bbfad751565994f3c0f4(Object c5a573a9fb29cfbecdb42fc7a10a73fce, KeyPressEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.clearToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.ce692d0e2b3072ab03cf6be97d65f45fe(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.findWordsNotLinesToolStripMenuItem_CheckedChanged(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c99a5b1e889bbfccc4f7f461412a6ce11(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.findWordsNotLinesToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c33d85280d70a4a6333242368a950e221(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.clearResultToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c22db1ad6941847caa572c56f4773dc17(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cacea8764497f21fcf7c8034c143386e9(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c83a2c49bc205bf3f64ba67d9013789ce(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c7e3b032ac3119df556268e3a44b0b02f(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.ca979963526376f01c5830bed10c93841(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c55cd9640da3ef3782e91ecf3890f5fc7(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cc3c704fb439bd79378b29238165be638(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c836dd4ce04b062f1ecd89ca770e0f721(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cdb88266557096d25e46a8c805283fd8e(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cf53beda398bebb23e3ef102862e7db99(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.AddLanguageMenuItems()" NewName="RemoveDuplicateLines.frmMain.c1ee57a21cc85d80814e64d5d65348cbf()" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c57cad198d3301488ae410cb3aa7c37e0(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.ChangeLanguage(String language_code)" NewName="RemoveDuplicateLines.frmMain.c63ee8507462dfceee12d915e6ed6ad5c(String c6a4df1afa8459db494056534cf3cd9cd)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.SetupOnLoad()" NewName="RemoveDuplicateLines.frmMain.cd93e71ce3131653c0a720a7260fc127c()" />
+<Entry OldName="RemoveDuplicateLines.frmMain.AdjustSizeLocation()" NewName="RemoveDuplicateLines.frmMain.cb9606bcce4b1bb27fa375683d14ee6ec()" />
+<Entry OldName="RemoveDuplicateLines.frmMain.SaveSizeLocation()" NewName="RemoveDuplicateLines.frmMain.c39f865d134cc15aecd69c8c3b31d9c1a()" />
+<Entry OldName="RemoveDuplicateLines.frmMain.batchRemoveDuplicatesForManyFilesToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c3d067d31cbeba9029b3f443f146bd7ab(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.exitToolStripMenuItem_Click_1(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c5cf4fe92d96bc8600662e4be179c9104(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.timer1_Tick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c4fd5a7adacfd794ba6661c8ebc4b3bfd(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.timer2_Tick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cbbfbedbcb00cb35bdeacb3266af1c802(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.timer3_Tick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c0d526ba9e08af3539fa2e99737526d1b(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.buyApplicationToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c70af749de54c989a40638fc69ddeaf96(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.enterLicenseKeyToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c4e5e0bc7de920f5a86f1d777d30b6a4f(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.tsbSaveResult_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.c0873563012a28e470bc02b104f0cc936(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_DragDrop(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmMain.cc67855d03572d6e7824f37a7be67b3e9(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_DragEnter(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmMain.ccb4721b0822be88997e48f08a1946177(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.frmMain_DragOver(Object sender, DragEventArgs e)" NewName="RemoveDuplicateLines.frmMain.c6bd44f75ed197cb960c1e2d44f2d1574(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DragEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.commandLineArgumentsToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMain.cf6b19a44dfa9d9ffa611b30ed5cdd584(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMain.InitializeComponent()" NewName="RemoveDuplicateLines.frmMain.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMessage.c9c8454fd7faf482103b0f6dfaeeb10fb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMessage.c2fde5974e53fdcd7b76d3d307b880d57(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.btnCopy_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmMessage.c8e57c5782351c9ae5e0895da0a456121(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmMessage.InitializeComponent()" NewName="RemoveDuplicateLines.frmMessage.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.btnCancel_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmOutputSubFolder.cdb60985c5d2fd91d41d320ecc896cf25(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.btnOK_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmOutputSubFolder.c9c8454fd7faf482103b0f6dfaeeb10fb(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.frmOutputSubFolder_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmOutputSubFolder.c03312d4f854a50f8c53abf54edfd6ab4(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmOutputSubFolder.InitializeComponent()" NewName="RemoveDuplicateLines.frmOutputSubFolder.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.btnCancel_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmProgress.cdb60985c5d2fd91d41d320ecc896cf25(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.timTime_Tick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmProgress.c0c9e14170b197f042b5c34d2de990e33(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.btnPause_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmProgress.ce3eea44cae0ab2680cfee6320a543608(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.btnStop_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmProgress.ca4cce83263c2d508c1440632634f7ece(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.frmProgress_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmProgress.c522b21175ac76b55052e17653cc27d34(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.InitializeComponent()" NewName="RemoveDuplicateLines.frmProgress.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.frmPurchase_Load(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.cecd26fef24f2f7f0ea4973e19a2edb7e(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnRegister_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.c73a6648df4786f5a60adce009c78814d(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.timContinue_Tick(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.ce5829d0601b0ad5826d17cda5259224a(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnClose_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.cd485d874a2e4e0b09758862363ddab96(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnBuy_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.c10c29df45d9cafae890a861598bae201(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnRegister_Click_1(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.c31d19d263061fb72a6bac3ce8ba4b9aa(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.btnExit_Click(Object sender, EventArgs e)" NewName="RemoveDuplicateLines.frmPurchase.c46bd98a5c9302b21234949e3ef736333(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.frmPurchase.InitializeComponent()" NewName="RemoveDuplicateLines.frmPurchase.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch..ctor()" NewName="A.cd5c41697e8d1f3e746814bd372d911fd..ctor()" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch.ExtractPreviousFuzzyMatch(String helpcolumn)" NewName="A.cd5c41697e8d1f3e746814bd372d911fd.cb9105d6eed881f508581dc7c9575b513(String c8b5e602094aa2809087d6d7ccb9d06b7)" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch.SetFuzzyHelpColumnText(Int32 fuzzypercent, String helpcolumn)" NewName="A.cd5c41697e8d1f3e746814bd372d911fd.c1ab4d66bb4ef237194807ef45810b8aa(Int32 c4609c0252982ab7bdc3cf99849deb6ef, String c8b5e602094aa2809087d6d7ccb9d06b7)" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch.IsFuzzyMatchForReport(String sNew, String sOld, Int32 percent_fuzzy_from, Int32 percent_fuzzy_to)" NewName="A.cd5c41697e8d1f3e746814bd372d911fd.cc2e2c44c5386c8ecb8d747514a56c590(String c12f3f17960564bb55498ee80daa27be4, String c87be1e04615103a15c5a32d0a6a7c59e, Int32 c1b4906f1baa2483f20d81e43bcc99ee3, Int32 cdd069cca1cddc8c714a4fa32d2b7f892)" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch.IsFuzzyMatch(String sNew, String sOld, String helpcolumn)" NewName="A.cd5c41697e8d1f3e746814bd372d911fd.c7e8b7334a1f14bdd65d50fdd4ec2240a(String c12f3f17960564bb55498ee80daa27be4, String c87be1e04615103a15c5a32d0a6a7c59e, String c8b5e602094aa2809087d6d7ccb9d06b7)" />
+<Entry OldName="RemoveDuplicateLines.Levenshtein.Minimum(Int32 a, Int32 b, Int32 c)" NewName="RemoveDuplicateLines.Levenshtein.c68cc458f5cc3b9b99e0eab900e9ca5e9(Int32 cf47191553eeed5eab6a84946fc9e231b, Int32 c3c42d5ffb5ca1c444d0eff0e0db9539e, Int32 cc17fa645f5dcd51c3f435139e2abca88)" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox..ctor()" NewName="A.c63daa26517e778c8c9c335b931adf446..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox.get_ImageList()" NewName="A.c63daa26517e778c8c9c335b931adf446.get_c9903b19dc9c37ad25e78ffbf2d4621c7()" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c63daa26517e778c8c9c335b931adf446.set_c9903b19dc9c37ad25e78ffbf2d4621c7(ImageList c7c8b39a7f644278556e9d4eb6d3d8c36)" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c63daa26517e778c8c9c335b931adf446.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem..ctor()" NewName="A.c689b75f73a28ca38c05902834ad97322..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem..ctor(String text)" NewName="A.c689b75f73a28ca38c05902834ad97322..ctor(String c9bbed279657ba9378956337462789c9f)" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c689b75f73a28ca38c05902834ad97322..ctor(String c9bbed279657ba9378956337462789c9f, Int32 cd79130db9a69e31110034f67c8692976)" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem.get_Text()" NewName="A.c689b75f73a28ca38c05902834ad97322.get_ca1bcc885f3305ba88c06cfed12e8f3d5()" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem.set_Text(String value)" NewName="A.c689b75f73a28ca38c05902834ad97322.set_ca1bcc885f3305ba88c06cfed12e8f3d5(String c7c8b39a7f644278556e9d4eb6d3d8c36)" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem.get_ImageIndex()" NewName="A.c689b75f73a28ca38c05902834ad97322.get_cd9c9131c40cde9effc6de26fe2e6aa97()" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c689b75f73a28ca38c05902834ad97322.set_cd9c9131c40cde9effc6de26fe2e6aa97(Int32 c7c8b39a7f644278556e9d4eb6d3d8c36)" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem.ToString()" NewName="A.c689b75f73a28ca38c05902834ad97322.ToString()" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper..ctor()" NewName="A.c34facc16491a2eef301e65015c847f9f..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper..cctor()" NewName="A.c34facc16491a2eef301e65015c847f9f..cctor()" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c34facc16491a2eef301e65015c847f9f.cbe2b92db9f86f76af41b61bc3a9da029(String c670f025a358f1ddf0b886f7edd8dd1bc, StringBuilder cbb75cb05f5495c7fd320852cf49ba5e5, UInt32 cf0cd661374515f118354254006b236bc, UInt32&amp; cf5b8c4eeb7ccfe0de902c8dad1eeec33, UInt32&amp; ced254898034253097d0f277ae7491505, UInt32&amp; c81820689abf12bfa7511c8b65d63b100, StringBuilder cc7f94c02e0c46135a85e19c3ad9e86f9, UInt32 c2cc230db62459be84f06108e4a68194e)" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper.GeneratePreviewItems()" NewName="A.c34facc16491a2eef301e65015c847f9f.c0365b9739964c10ce0469c3340d9366a()" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper.ParseDate(String datestr)" NewName="A.c34facc16491a2eef301e65015c847f9f.c46433dceb2c5f7e51c4b45396eca110a(String c3827205ff680d522ec1d67dffc278ff1)" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper..ctor()" NewName="A.c6146ebcdb975305cea818f19ca249f12..ctor()" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper..cctor()" NewName="A.c6146ebcdb975305cea818f19ca249f12..cctor()" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper.GetVolumeInformation(String PathName, StringBuilder VolumeNameBuffer, UInt32 VolumeNameSize, UInt32&amp; VolumeSerialNumber, UInt32&amp; MaximumComponentLength, UInt32&amp; FileSystemFlags, StringBuilder FileSystemNameBuffer, UInt32 FileSystemNameSize)" NewName="A.c6146ebcdb975305cea818f19ca249f12.cbe2b92db9f86f76af41b61bc3a9da029(String c670f025a358f1ddf0b886f7edd8dd1bc, StringBuilder cbb75cb05f5495c7fd320852cf49ba5e5, UInt32 cf0cd661374515f118354254006b236bc, UInt32&amp; cf5b8c4eeb7ccfe0de902c8dad1eeec33, UInt32&amp; ced254898034253097d0f277ae7491505, UInt32&amp; c81820689abf12bfa7511c8b65d63b100, StringBuilder cc7f94c02e0c46135a85e19c3ad9e86f9, UInt32 c2cc230db62459be84f06108e4a68194e)" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper.AnalyzeSearch()" NewName="A.c6146ebcdb975305cea818f19ca249f12.c2b98ea53aba12c886ce90b34848a19c4()" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper.Bin2Hex(Byte[] bin)" NewName="A.c6146ebcdb975305cea818f19ca249f12.ccd205583c8533557acef426101f0c5bb(Byte[] c4c4ec7ee34bf5648d2cf5354205e3edc)" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper..ctor()" NewName="A.ce03f1d958a56389b2c85e4397067d528..ctor()" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper..cctor()" NewName="A.ce03f1d958a56389b2c85e4397067d528..cctor()" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.ce03f1d958a56389b2c85e4397067d528.c1e592434146c54fd1c3fa5db35200743(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper.ParseDate(String datestr)" NewName="A.ce03f1d958a56389b2c85e4397067d528.c46433dceb2c5f7e51c4b45396eca110a(String c3827205ff680d522ec1d67dffc278ff1)" />
+<Entry OldName="RemoveDuplicateLines.Module..ctor()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226..ctor()" />
+<Entry OldName="RemoveDuplicateLines.Module..cctor()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226..cctor()" />
+<Entry OldName="RemoveDuplicateLines.Module.get_TempFolder()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.get_c09ee4afc7906ea0b3ff427f89cd0351d()" />
+<Entry OldName="RemoveDuplicateLines.Module.set_TempFolder(String value)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.set_c09ee4afc7906ea0b3ff427f89cd0351d(String c7c8b39a7f644278556e9d4eb6d3d8c36)" />
+<Entry OldName="RemoveDuplicateLines.Module.get_ProfilesFile()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.get_caa85aa9a578be400412729864409c8a9()" />
+<Entry OldName="RemoveDuplicateLines.Module.get_VideoOptionsFile()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.get_cd7667c0435bc69b99786a3c5e325b0ee()" />
+<Entry OldName="RemoveDuplicateLines.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c7e5862e01c99718b8850db3943c2324c(IntPtr c8e477fcdc098517dbfe9d79a37ab0073, Int32 cde5f7aecaa013575b635237ae56e5150, Int32 cc6595ae2a4866782f1fc1dd669675f81, Int32 c1813d741bfb9777499ef8f75f288a412)" />
+<Entry OldName="RemoveDuplicateLines.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c52dd2c6acf5411d73dc8911f3305d5e6(IntPtr cf170a37ee95bfe06400dde81b4378713)" />
+<Entry OldName="RemoveDuplicateLines.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c6cc32b6d5aa75f7c0a5829049df3f3ed(Int32 cf4444d3631c1ba4eb40b9652e2f5fbc1)" />
+<Entry OldName="RemoveDuplicateLines.Module.IsLegalFilename(String name)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c46eeaf1c202b8aa5efa3de1b14d74aa2(String cb86c150a309c0e627cf9f37d9fe1646d)" />
+<Entry OldName="RemoveDuplicateLines.Module.ImageFromFile(String path)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c41eb3e97a2239088c1492665580a1cb6(String ccb8a333b06c1b1d699f8553432ce0c8c)" />
+<Entry OldName="RemoveDuplicateLines.Module.RunAdminAction(String args)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.ccb013d1ad8fe8b67f47cff8b448ba095(String c8ba21db0e8fb9b2df083a6a7c28b0778)" />
+<Entry OldName="RemoveDuplicateLines.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cd77a3c57b7c53095844b33bf52b49316(String c4afdf486282cea7988ea4a77db4c11ab, String ceb2d427a9a455510a2171354636d624a)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowMessage(String msg)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c47cdc0f439467695b6a71e907cf1f9ac(String c8827ee3fb59fb0ee24206e2adbe2bcad)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cc164038b59632fd5a6dc406d70e7cc0f(String c8827ee3fb59fb0ee24206e2adbe2bcad, String c4192e899829e973c0699283cb6886002)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowError(Exception ex)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c992b9e70fae7aba5b3d8713642fa5dd4(Exception cfc3b3f21443a581f6e9d81575ee310ce)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowError(String msg)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c992b9e70fae7aba5b3d8713642fa5dd4(String c8827ee3fb59fb0ee24206e2adbe2bcad)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowError(String msg, Exception ex)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c992b9e70fae7aba5b3d8713642fa5dd4(String c8827ee3fb59fb0ee24206e2adbe2bcad, Exception cfc3b3f21443a581f6e9d81575ee310ce)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowError(String msg, String exstr)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c992b9e70fae7aba5b3d8713642fa5dd4(String c8827ee3fb59fb0ee24206e2adbe2bcad, String c5cf4a2392f6e2d29d9a07b38735b32dc)" />
+<Entry OldName="RemoveDuplicateLines.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c1e592434146c54fd1c3fa5db35200743(Object c5a573a9fb29cfbecdb42fc7a10a73fce, EventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cf61377c0df1c8ff7d358ee8113e5f350(String c8827ee3fb59fb0ee24206e2adbe2bcad, String c4192e899829e973c0699283cb6886002)" />
+<Entry OldName="RemoveDuplicateLines.Module.IsAcceptableMediaInput(String filepath)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c9a8e0f06533ffa22609faaf8bdc1ed18(String c41b982678dba2e8a8d25d79b8c5ee8c6)" />
+<Entry OldName="RemoveDuplicateLines.Module.get_Modex64()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.get_ce3f1c3e9ca08f1063c7cee6b15dba572()" />
+<Entry OldName="RemoveDuplicateLines.Module.DownloadPage(String uri)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c8fc577cf1d5d9774c21eecb9ef573934(String c664d6d862f3e532138e4d9a8ba67d494)" />
+<Entry OldName="RemoveDuplicateLines.Module.HexConverter(Color c)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cb6579f58b3e3cc617d2836dbccec79ff(Color cc17fa645f5dcd51c3f435139e2abca88)" />
+<Entry OldName="RemoveDuplicateLines.Module.DecimalToString(Decimal dec)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cd1ec8dad3690bcb51a1708a83c1ff477(Decimal caf9169b1afe30017cbd6fc368f52451f)" />
+<Entry OldName="RemoveDuplicateLines.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cd1ec8dad3690bcb51a1708a83c1ff477(Decimal caf9169b1afe30017cbd6fc368f52451f, Int32 c08f5b77dee72d0ca12e0ae325b50fe83)" />
+<Entry OldName="RemoveDuplicateLines.Module.StringToDecimal(String str)" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.c482926afbfeb2accd99eef1ba83b6cee(String c2d5fd449ab1e174f8e20dd0cc4821591)" />
+<Entry OldName="RemoveDuplicateLines.Module.get_IsWindows64Bit()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.get_c221bcb1be535d71ae3d9cc2102b90d77()" />
+<Entry OldName="RemoveDuplicateLines.Module.DeleteApplicationSettingsFile()" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226.cbff48c4e71202563a331812dcbe684c4()" />
+<Entry OldName="RemoveDuplicateLines.NiceLine.InitializeComponent()" NewName="RemoveDuplicateLines.NiceLine.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper..ctor()" NewName="A.c29c3230d2e55f2d5721786a9314a563c..ctor()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper..cctor()" NewName="A.c29c3230d2e55f2d5721786a9314a563c..cctor()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.CreateWordApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.cc249204cfa507fef697a9926ab13bb4d()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.CreatePowerPointApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c582a5c26e7b5dcc6f218fd6ecebd67c5()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.QuitPowerPointApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c0f0852e4ae45a4b273c3a05ef0e5b8ba()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.QuitWordApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c34ef44ff05648643c5afe2d55ecbc87d()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.CreateExcelApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.c7549a917727772df47ee1b0fb26ef74a()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.QuitExcelApplication()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.cb06165254b4649eb3adb051c1466a2d4()" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper.QuitOfficeApplications()" NewName="A.c29c3230d2e55f2d5721786a9314a563c.cf049daba33aaeeae22ded82025372069()" />
+<Entry OldName="RemoveDuplicateLines.OutputFolderHelper..ctor()" NewName="A.c2e7f1106f19e64fd07e26dc599621d5d..ctor()" />
+<Entry OldName="RemoveDuplicateLines.OutputFolderHelper.SaveOutputFolder(String folder)" NewName="A.c2e7f1106f19e64fd07e26dc599621d5d.cfb81adb26fd1c60d86cf8015c2a158f3(String c5719a701fa8f5ab7163f6f4f68ad2258)" />
+<Entry OldName="RemoveDuplicateLines.OutputFolderHelper.LoadOutputFolders()" NewName="A.c2e7f1106f19e64fd07e26dc599621d5d.cad963134c05976243115f9b9f9652eb9()" />
+<Entry OldName="RemoveDuplicateLines.Program.FreeConsole()" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c9d1833199036eed586575c8fc9ab4af8()" />
+<Entry OldName="RemoveDuplicateLines.Program.AttachConsole(Int32 dwProcessId)" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c40a3ccb505620dfeca8826cfffb6b0f4(Int32 cd47838f985f0f21f0c0c6bbc98633e0e)" />
+<Entry OldName="RemoveDuplicateLines.Program.AllocConsole()" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c5780848390d1a2c402cce8508d8eafd6()" />
+<Entry OldName="RemoveDuplicateLines.Program.Main(String[] args)" NewName="A.cf23ec7d63a7f13aae9681927e40774a3.c6c057042dfdc215f7777f7d4c15ddb74(String[] c8ba21db0e8fb9b2df083a6a7c28b0778)" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper..ctor()" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5..ctor()" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.FillMenuRecentFile()" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.cea70390125f4d5711d12845bcf717f7a()" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.FillRecentOutputFile()" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c022dc93844e15bfc5d4382b2b8cc53ec()" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.FillMenuRecentFolder()" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c1067a863f2fca77279877aada539240e()" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.FillMenuRecentImportList()" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c94ecdc333374274bfc5de3fd3e919871()" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.AddRecentFile(String filepath)" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.ca70b541c12c541360ae01dafd11ca364(String c41b982678dba2e8a8d25d79b8c5ee8c6)" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.AddRecentOutputFile(String filepath)" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.ce9c27d804a8c5e20d3f7e738e307c4aa(String c41b982678dba2e8a8d25d79b8c5ee8c6)" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.ImportListRecent(String filepath)" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c0e7e3fbcfc82a8ca787ed406f2adf3d6(String c41b982678dba2e8a8d25d79b8c5ee8c6)" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.AddRecentFolder(String filepath)" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c61fbc1d1d6cf7d8b8d29d56e9b5fd849(String c41b982678dba2e8a8d25d79b8c5ee8c6)" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper.ArrayToListString(String[] str)" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5.c6ee662255ca90ce01732baefb20b7ba9(String[] c2d5fd449ab1e174f8e20dd0cc4821591)" />
+<Entry OldName="RemoveDuplicateLines.RemoveDuplicateLinesHelper.bw_DoWork(Object sender, DoWorkEventArgs e)" NewName="RemoveDuplicateLines.RemoveDuplicateLinesHelper.cb8c1d48c223ebd0caeb82bec977b0417(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DoWorkEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.HashSortList.HashSortList_DoWork(Object sender, DoWorkEventArgs e)" NewName="RemoveDuplicateLines.HashSortList.c6cc54869a7c53fda580c992850c0b104(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DoWorkEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.HashSortList.FindAndAddHashTreeNode(String currentHash, LineSorterLine&amp; line, HashTreeNode&amp; parentHashTreeNode)" NewName="RemoveDuplicateLines.HashSortList.c37f76b54c613080f8ba246c7375635fe(String c372b1049158b7f9ec62d34e6e0223add, LineSorterLine&amp; c9358673339ffde6ffa2a33c226e69473, HashTreeNode&amp; c1bf7b6b645b5dace50c0c19345595197)" />
+<Entry OldName="RemoveDuplicateLines.ResFlags..ctor()" NewName="A.c96f0585d837e28e778285716f2ea0457..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_ResourceManager()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_ResourceManager()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_Culture()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_Culture()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.set_Culture(CultureInfo value)" NewName="A.c96f0585d837e28e778285716f2ea0457.set_Culture(CultureInfo value)" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_albania()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_albania()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_belarus()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_belarus()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_bulgaria()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_bulgaria()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_china()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_china()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_croatia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_croatia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_czech_republic()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_czech_republic()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_denmark()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_denmark()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_estonia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_estonia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_finland()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_finland()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_france()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_france()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_georgia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_georgia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_germany()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_germany()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_great_britain()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_great_britain()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_greece()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_greece()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_hungary()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_hungary()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_iceland()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_iceland()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_india()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_india()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_indonesia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_indonesia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_iran()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_iran()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_ireland()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_ireland()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_israel()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_israel()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_italy()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_italy()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_japan()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_japan()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_kenya()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_kenya()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_latvia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_latvia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_lithuania()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_lithuania()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_netherlands()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_netherlands()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_norway()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_norway()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_pakistan()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_pakistan()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_philippines()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_philippines()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_poland()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_poland()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_portugal()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_portugal()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_romania()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_romania()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_russia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_russia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_saudi_arabia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_saudi_arabia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_serbia_montenegro()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_serbia_montenegro()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_slovakia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_slovakia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_slovenia()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_slovenia()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_south_africa()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_south_africa()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_south_korea()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_south_korea()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_spain()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_spain()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_sweden()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_sweden()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_taiwan()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_taiwan()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_thailand()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_thailand()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_turkey()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_turkey()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_ukraine()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_ukraine()" />
+<Entry OldName="RemoveDuplicateLines.ResFlags.get_flag_vietnam()" NewName="A.c96f0585d837e28e778285716f2ea0457.get_flag_vietnam()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister..ctor()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_ResourceManager()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_ResourceManager()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Culture()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Culture()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.set_Culture(CultureInfo value)" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.set_Culture(CultureInfo value)" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Add_new_search_item_to_project()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Add_new_search_item_to_project()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Continue_activated_search_()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Continue_activated_search_()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Direct_search_started()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Direct_search_started()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Edit_4dots_Project()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Edit_4dots_Project()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Erroneous_search_2()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Erroneous_search_2()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Error_1()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Error_1()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Error_12()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Error_12()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Error_4()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Error_4()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Import_search_result()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Import_search_result()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Init_Project()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Init_Project()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_MessageTitle()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_MessageTitle()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_MessageTitle7()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_MessageTitle7()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_MessageTitle8()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_MessageTitle8()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Search_duration_process()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Search_duration_process()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_String1()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_String1()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Uniform_process()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Uniform_process()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Αλλαγή_Ονόματος()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Αλλαγή_Ονόματος()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Αλλαγή_στοιχείων_εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Αλλαγή_στοιχείων_εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Αλλαγή_Φίλτρου_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Αλλαγή_Φίλτρου_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Ανανέωση_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Ανανέωση_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Εισαγωγή_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Εισαγωγή_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Εναλλαγή_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Εναλλαγή_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Καθορισμός_Ονόματος()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Καθορισμός_Ονόματος()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Μορφοποίηση_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Μορφοποίηση_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Νέα_Εικόνα()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Νέα_Εικόνα()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Παράμετροι_Μετρήσεως_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Παράμετροι_Μετρήσεως_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Περιγραφή_Ονόματος()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Περιγραφή_Ονόματος()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Πηγή_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Πηγή_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Προβολή_Εικόνας_1()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Προβολή_Εικόνας_1()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Προβολή_Εικόνων()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Προβολή_Εικόνων()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Σφάλμα_120()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Σφάλμα_120()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Σφάλμα_1201()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Σφάλμα_1201()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Υπολογισμός_Επιφάνειας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Υπολογισμός_Επιφάνειας()" />
+<Entry OldName="RemoveDuplicateLines.ResRegister.get_Φίλτρο_Εικόνας()" NewName="A.c2e2eee2923b00cb0c005c78d131b0588.get_Φίλτρο_Εικόνας()" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate..ctor()" NewName="A.cd13024b7761b86761653679c767abc45..ctor()" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate.get_ResourceManager()" NewName="A.cd13024b7761b86761653679c767abc45.get_ResourceManager()" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate.get_Culture()" NewName="A.cd13024b7761b86761653679c767abc45.get_Culture()" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate.set_Culture(CultureInfo value)" NewName="A.cd13024b7761b86761653679c767abc45.set_Culture(CultureInfo value)" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper..ctor()" NewName="A.c09228fff0ab735617d892154bddde56f..ctor()" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper..cctor()" NewName="A.c09228fff0ab735617d892154bddde56f..cctor()" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper.Translate(String str)" NewName="A.c09228fff0ab735617d892154bddde56f.c4d3faf8461d3a6fa71150fafb95fcd06(String c2d5fd449ab1e174f8e20dd0cc4821591)" />
+<Entry OldName="RemoveDuplicateLines.ucTextProgressBar.InitializeComponent()" NewName="RemoveDuplicateLines.ucTextProgressBar.c29268f0ce287ac4bad730e7bf19b14d7()" />
+<Entry OldName="RemoveDuplicateLines.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="RemoveDuplicateLines.UpdateHelper.c2b31fe517486fd4172810af72a6f57dc(Object c5a573a9fb29cfbecdb42fc7a10a73fce, ProgressChangedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="RemoveDuplicateLines.UpdateHelper.c291b199fceca23e66a410962278cea59(Object c5a573a9fb29cfbecdb42fc7a10a73fce, RunWorkerCompletedEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="RemoveDuplicateLines.UpdateHelper.cd0e5c860837208d52567109ab0adddaf(Object c5a573a9fb29cfbecdb42fc7a10a73fce, DoWorkEventArgs cc94514f3e2a7f7ca95e2042b8e9f4580)" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources..ctor()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf..ctor()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_ResourceManager()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_ResourceManager()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_Culture()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_Culture()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.set_Culture(CultureInfo value)" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get__4dots_logo_official()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get__4dots_logo_official()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get__4dots_logo_official_icon()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_about()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_about()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_add()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_add()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_add1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_add1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_arrow_down_green()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_arrow_down_green()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_arrow_left_blue()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_arrow_left_blue()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_arrow_right_blue()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_arrow_right_blue()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_arrow_up_green()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_arrow_up_green()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_brush2()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_brush2()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_brush4()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_brush4()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_bullet_ball_glass_blue()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_bullet_ball_glass_green()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_bullet_ball_glass_red()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_bullet_ball_glass_yellow()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_cart_icon_b_24()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_cart_icon_b_24()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_check()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_check()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_copy()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_copy()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_cut()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_cut()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_delete()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_delete()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_delete1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_delete1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_disk_blue()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_disk_blue()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_disk_blue1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_disk_blue1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_document_into()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_document_into()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_document_preferences()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_document_preferences()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_earth()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_earth()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_edit()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_edit()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_exit()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_exit()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_exit1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_exit1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_facebook_24()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_facebook_24()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_facebook_32()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_facebook_32()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_flash()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_flash()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_flash1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_flash1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_folder()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_folder()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_folder_add()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_folder_add()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_folder1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_folder1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_googleplus_24()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_googleplus_24()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_help2()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_help2()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_import1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_import1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_information()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_information()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_key1()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_key1()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_linkedin_24()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_linkedin_24()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_mail()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_mail()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_media_pause()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_media_pause()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_media_stop()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_media_stop()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_navigate_beginning()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_navigate_beginning()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_navigate_end()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_navigate_end()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_preferences()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_preferences()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_text_align_justified()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_text_align_justified()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_twitter_24()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_twitter_24()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_twitter_32()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_twitter_32()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_warning()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_warning()" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources.get_youtube_32()" NewName="A.cc59f6d82ac4629907d760cc6edea81cf.get_youtube_32()" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.HideFormDelegate..ctor(Object object, IntPtr method)" NewName="RemoveDuplicateLines.frmProgress.c2ab833b51af3dc368f8fb57b43ead09b..ctor(Object object, IntPtr method)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.HideFormDelegate.Invoke()" NewName="RemoveDuplicateLines.frmProgress.c2ab833b51af3dc368f8fb57b43ead09b.Invoke()" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.HideFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="RemoveDuplicateLines.frmProgress.c2ab833b51af3dc368f8fb57b43ead09b.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.HideFormDelegate.EndInvoke(IAsyncResult result)" NewName="RemoveDuplicateLines.frmProgress.c2ab833b51af3dc368f8fb57b43ead09b.EndInvoke(IAsyncResult result)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.ShowFormDelegate..ctor(Object object, IntPtr method)" NewName="RemoveDuplicateLines.frmProgress.c783c509fa647701f59e1fc87da2469f8..ctor(Object object, IntPtr method)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.ShowFormDelegate.Invoke()" NewName="RemoveDuplicateLines.frmProgress.c783c509fa647701f59e1fc87da2469f8.Invoke()" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.ShowFormDelegate.BeginInvoke(AsyncCallback callback, Object object)" NewName="RemoveDuplicateLines.frmProgress.c783c509fa647701f59e1fc87da2469f8.BeginInvoke(AsyncCallback callback, Object object)" />
+<Entry OldName="RemoveDuplicateLines.frmProgress.ShowFormDelegate.EndInvoke(IAsyncResult result)" NewName="RemoveDuplicateLines.frmProgress.c783c509fa647701f59e1fc87da2469f8.EndInvoke(IAsyncResult result)" />
+<Entry OldName="RemoveDuplicateLines.ArgsHelper" NewName="A.c2be8a9aad605616c03e75b9c57ef107f" />
+<Entry OldName="RemoveDuplicateLines.ContextMenuHelper" NewName="A.c5f3ef724ab1e6e3a3175b4158ae5efe4" />
+<Entry OldName="RemoveDuplicateLines.ExceptionHandlersHelper" NewName="A.cbc9c4bfccc1d352a1b4bb03c3c81257c" />
+<Entry OldName="RemoveDuplicateLines.frmProgress+HideFormDelegate" NewName="RemoveDuplicateLines.frmProgress+c2ab833b51af3dc368f8fb57b43ead09b" />
+<Entry OldName="RemoveDuplicateLines.frmProgress+ShowFormDelegate" NewName="RemoveDuplicateLines.frmProgress+c783c509fa647701f59e1fc87da2469f8" />
+<Entry OldName="RemoveDuplicateLines.FuzzyMatch" NewName="A.cd5c41697e8d1f3e746814bd372d911fd" />
+<Entry OldName="RemoveDuplicateLines.ImageComboBox" NewName="A.c63daa26517e778c8c9c335b931adf446" />
+<Entry OldName="RemoveDuplicateLines.ComboBoxExItem" NewName="A.c689b75f73a28ca38c05902834ad97322" />
+<Entry OldName="RemoveDuplicateLines.ImagesViewHelper" NewName="A.c34facc16491a2eef301e65015c847f9f" />
+<Entry OldName="RemoveDuplicateLines.InputModeHelper" NewName="A.c6146ebcdb975305cea818f19ca249f12" />
+<Entry OldName="RemoveDuplicateLines.MiscHelper" NewName="A.ce03f1d958a56389b2c85e4397067d528" />
+<Entry OldName="RemoveDuplicateLines.Module" NewName="A.ce04e03a7f5b07ff5a3d02907c1b7c226" />
+<Entry OldName="RemoveDuplicateLines.OfficeHelper" NewName="A.c29c3230d2e55f2d5721786a9314a563c" />
+<Entry OldName="RemoveDuplicateLines.OutputFolderHelper" NewName="A.c2e7f1106f19e64fd07e26dc599621d5d" />
+<Entry OldName="RemoveDuplicateLines.Program" NewName="A.cf23ec7d63a7f13aae9681927e40774a3" />
+<Entry OldName="RemoveDuplicateLines.RecentFilesHelper" NewName="A.c47a68f586b167ef42ec25f9e3d3ee8a5" />
+<Entry OldName="RemoveDuplicateLines.ResFlags" NewName="A.c96f0585d837e28e778285716f2ea0457" />
+<Entry OldName="RemoveDuplicateLines.ResRegister" NewName="A.c2e2eee2923b00cb0c005c78d131b0588" />
+<Entry OldName="RemoveDuplicateLines.ResTranslate" NewName="A.cd13024b7761b86761653679c767abc45" />
+<Entry OldName="RemoveDuplicateLines.TranslateHelper" NewName="A.c09228fff0ab735617d892154bddde56f" />
+<Entry OldName="RemoveDuplicateLines.Properties.Resources" NewName="A.cc59f6d82ac4629907d760cc6edea81cf" />
+<Assembly Name="RemoveDuplicateLines"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="RemoveDuplicateLines.ArgsHelper" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="ExamineArgs" Variables="args;V_0;V_1;V_2;tempfile;sr;scont;fb;k;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;ex;" ParamCnt="1" />
+<Method Token="100663300" Name="GetParameter" Variables="arg;spos;V_1;V_2;str;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663301" Name="SplitArguments" Variables="commandLine;parmChars;inSingleQuote;inDoubleQuote;index;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663302" Name="ShowCommandUsage" Variables="msg;" ParamCnt="0" />
+<Method Token="100663303" Name="GetCommandUsage" Variables="msg;V_1;" ParamCnt="0" />
+<Method Token="100663304" Name="get_IsFromWindowsExplorer" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663305" Name="get_IsFromCommandLine" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663306" Name="ExecuteCommandLine" Variables="err;finished;V_2;ex;V_4;" ParamCnt="0" />
+<Type Token="33554436" Name="RemoveDuplicateLines.ReadListsResult" />
+<Method Token="100663308" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="Success" />
+<Field Token="67108866" Name="err" />
+<Type Token="33554437" Name="RemoveDuplicateLines.ContextMenuHelper" />
+<Method Token="100663309" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663311" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663312" Name="DisplayContextMenu" Variables="sfilecontents;init_filepath;txt;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;reg_key;email;expired;myvl;kx;ky;userkey;encrypted_kleidi_xristi;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;exf;V_30;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_55;ex;V_57;V_58;V_59;V_60;fm;V_62;V_63;ex_l3;" ParamCnt="0" />
+<Method Token="100663313" Name="HideContextMenu" Variables="kx;ky;sfilecontents;myar;elements;reg_key;email;dtfrom;dtlast;expired;ver;newversion;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_25;iver;icurver;V_28;V_29;f;f;V_32;datfrom;V_34;V_35;V_36;V_37;" ParamCnt="0" />
+<Method Token="100663314" Name="WriteTest" Variables="sfilecontents;data;key;iv;byteData;enc;tdes;ict;ex;sw;" ParamCnt="0" />
+<Method Token="100663315" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67108867" Name="DtFrom" />
+<Field Token="67108868" Name="DtLast" />
+<Field Token="67108869" Name="DtTo" />
+<Field Token="67108870" Name="Ve" />
+<Type Token="33554439" Name="RemoveDuplicateLines.CustomForm" />
+<Method Token="100663322" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663323" Name="OnResize" Variables="this;e;V_0;" ParamCnt="2" />
+<Method Token="100663324" Name="OnPaintBackground" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663325" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663326" Name="CustomForm2_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663327" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663328" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663329" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663330" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663331" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108872" Name="LoadComplete" />
+<Field Token="67108873" Name="tooltip" />
+<Field Token="67108874" Name="components" />
+<Type Token="33554440" Name="RemoveDuplicateLines.DocumentReaderHelper" />
+<Method Token="100663332" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663333" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663334" Name="ReadRTFDocument" Variables="filepath;rtb;V_1;" ParamCnt="1" />
+<Method Token="100663335" Name="ReadWordDocument" Variables="filepath;doc;oText;oContent;oDocuments;missing;oldCI;document_filepath;exword;V_8;exmain;" ParamCnt="1" />
+<Field Token="67108875" Name="BusyWord" />
+<Type Token="33554441" Name="RemoveDuplicateLines.ExceptionHandlersHelper" />
+<Method Token="100663336" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663337" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663338" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663339" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554442" Name="RemoveDuplicateLines.frmAbout" />
+<Method Token="100663340" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663342" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663343" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663345" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663346" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663347" Name="btnRegister_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663348" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663349" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108876" Name="lblf" />
+<Field Token="67108877" Name="LDT" />
+<Field Token="67108878" Name="components" />
+<Field Token="67108879" Name="lblAbout" />
+<Field Token="67108880" Name="btnClose" />
+<Field Token="67108881" Name="pictureBox1" />
+<Field Token="67108882" Name="linkLabel1" />
+<Field Token="67108883" Name="label1" />
+<Field Token="67108884" Name="label2" />
+<Field Token="67108885" Name="linkLabel2" />
+<Field Token="67108886" Name="niceLine1" />
+<Field Token="67108887" Name="niceLine3" />
+<Field Token="67108888" Name="label3" />
+<Field Token="67108889" Name="ullProductWebpage" />
+<Field Token="67108890" Name="btnBuy" />
+<Field Token="67108891" Name="lblRegistered" />
+<Field Token="67108892" Name="btnRegister" />
+<Field Token="67108893" Name="niceLine2" />
+<Field Token="67108894" Name="label4" />
+<Field Token="67108895" Name="lblLicenseKey" />
+<Field Token="67108896" Name="niceLine4" />
+<Field Token="67108897" Name="label5" />
+<Type Token="33554443" Name="RemoveDuplicateLines.frmAdeia" />
+<Method Token="100663350" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663353" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663354" Name="frmAdeia_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663356" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108898" Name="components" />
+<Field Token="67108899" Name="label1" />
+<Field Token="67108900" Name="btnOK" />
+<Field Token="67108901" Name="label2" />
+<Field Token="67108902" Name="txtEmail" />
+<Field Token="67108903" Name="btnExit" />
+<Field Token="67108904" Name="lblAppName" />
+<Type Token="33554444" Name="RemoveDuplicateLines.frmBatch" />
+<Method Token="100663357" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663358" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663359" Name="get_IsDirty" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663360" Name="set_IsDirty" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663361" Name="frmBatch_Load" Variables="this;sender;e;V_0;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663362" Name="tsdbAddFile_ButtonClick" Variables="this;sender;e;V_0;k;V_2;V_3;f;" ParamCnt="3" />
+<Method Token="100663363" Name="tsdbAddFile_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663364" Name="tsbRemove_Click" Variables="this;sender;e;cells;rows;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663365" Name="tsdbAddFolder_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663366" Name="tsdbAddFolder_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663367" Name="ImportList" Variables="this;listfilepath;curdir;sr;line;filepath;password;V_5;compos;V_7;epos;V_9;V_10;epos;V_12;V_13;V_14;V_15;V_16;exq;V_18;V_19;V_20;ex;" ParamCnt="2" />
+<Method Token="100663368" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663369" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663370" Name="AddFile" Variables="this;filepath;V_0;" ParamCnt="2" />
+<Method Token="100663371" Name="AddFile" Variables="this;filepath;password;V_0;" ParamCnt="3" />
+<Method Token="100663372" Name="AddFile" Variables="this;filepath;password;rootfolder;ext;dr;fi;sizekb;V_4;V_5;outfile;V_7;" ParamCnt="4" />
+<Method Token="100663373" Name="AddFolder" Variables="this;folder_path;" ParamCnt="2" />
+<Method Token="100663374" Name="AddFolder" Variables="this;folder_path;password;filez;V_1;V_2;dres;V_4;k;filepath;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663375" Name="openToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663377" Name="copyFullFilePathToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
+<Method Token="100663378" Name="cmsFiles_Opening" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663379" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663380" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663381" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663382" Name="cmsFiles_Opening_1" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663383" Name="chkParentFolder_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="btnChangeFolder_Click" Variables="this;sender;e;fbr;V_1;V_2;" ParamCnt="3" />
+<Method Token="100663385" Name="btnOpenFolder_Click" Variables="this;sender;e;V_0;dirpath;filepath;outfilepath;args;info;V_6;V_7;V_8;subfolderspos;subfolder;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663386" Name="GetOutputFilepath" Variables="this;filepath;rootfolder;dirpath;outfilepath;outfp;V_3;V_4;subfolderspos;subfolder;V_7;V_8;V_9;V_10;dep;V_12;V_13;" ParamCnt="3" />
+<Method Token="100663387" Name="SetupOutputFolders" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663388" Name="chkKeepBackup_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663389" Name="cmbOutputDir_SelectedIndexChanged" Variables="this;sender;e;V_0;V_1;fob;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663390" Name="ExecuteCommandLine" Variables="this;V_0;kk;filepath;txt;remdupl;V_5;V_6;V_7;V_8;res;res;ex;V_12;V_13;" ParamCnt="1" />
+<Method Token="100663391" Name="tsbReplaceDuplicates_Click" Variables="this;sender;e;f;bwmax;kk;compl;busyWord;V_5;V_6;V_7;k;bw;V_10;k;V_12;found;found2;k;V_16;m;V_18;V_19;V_20;V_21;V_22;V_23;lst1;V_25;V_26;V_27;V_28;V_29;fe;" ParamCnt="3" />
+<Method Token="100663392" Name="bw_ProgressChanged" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663393" Name="bw_DoWork" Variables="this;sender;e;lst;filepath;rootfolder;txt;remdupl;bw0;V_6;bw;V_8;V_9;V_10;res;res;ex;" ParamCnt="3" />
+<Method Token="100663394" Name="donotSortToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663395" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663396" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle1;" ParamCnt="1" />
+<Field Token="67108905" Name="dt" />
+<Field Token="67108906" Name="Instance" />
+<Field Token="67108907" Name="SilentAdd" />
+<Field Token="67108908" Name="SilentAddErr" />
+<Field Token="67108909" Name="OperationStopped" />
+<Field Token="67108910" Name="OperationPaused" />
+<Field Token="67108911" Name="Err" />
+<Field Token="67108912" Name="sOutputDir" />
+<Field Token="67108913" Name="bKeepBackup" />
+<Field Token="67108914" Name="FirstOutputDocument" />
+<Field Token="67108915" Name="_IsDirty" />
+<Field Token="67108916" Name="cmbOutputDirText" />
+<Field Token="67108917" Name="lstbw" />
+<Field Token="67108918" Name="components" />
+<Field Token="67108919" Name="dgFiles" />
+<Field Token="67108920" Name="colFilename" />
+<Field Token="67108921" Name="colSize" />
+<Field Token="67108922" Name="colFileDate" />
+<Field Token="67108923" Name="colFullFilePath" />
+<Field Token="67108924" Name="toolStrip1" />
+<Field Token="67108925" Name="tsdbAddFile" />
+<Field Token="67108926" Name="tsbRemove" />
+<Field Token="67108927" Name="toolStripSeparator3" />
+<Field Token="67108928" Name="tsdbAddFolder" />
+<Field Token="67108929" Name="tsdbImportList" />
+<Field Token="67108930" Name="toolStripSeparator1" />
+<Field Token="67108931" Name="tsbMergeDocuments" />
+<Field Token="67108932" Name="groupBox1" />
+<Field Token="67108933" Name="cmbOutputDir" />
+<Field Token="67108934" Name="btnChangeFolder" />
+<Field Token="67108935" Name="btnOpenFolder" />
+<Field Token="67108936" Name="lblTotal" />
+<Field Token="67108937" Name="cmsFiles" />
+<Field Token="67108938" Name="openToolStripMenuItem" />
+<Field Token="67108939" Name="exploreToolStripMenuItem" />
+<Field Token="67108940" Name="copyFullFilePathToolStripMenuItem" />
+<Field Token="67108941" Name="folderBrowserDialog1" />
+<Field Token="67108942" Name="openFileDialog1" />
+<Field Token="67108943" Name="chkParentFolder" />
+<Field Token="67108944" Name="chkKeepBackup" />
+<Field Token="67108945" Name="menuStrip1" />
+<Field Token="67108946" Name="sortingToolStripMenuItem" />
+<Field Token="67108947" Name="donotSortToolStripMenuItem" />
+<Field Token="67108948" Name="sortAscendingToolStripMenuItem" />
+<Field Token="67108949" Name="sortDescendingToolStripMenuItem" />
+<Field Token="67108950" Name="optionsToolStripMenuItem" />
+<Field Token="67108951" Name="caseSensitiveStringComparisonToolStripMenuItem" />
+<Field Token="67108952" Name="toolsToolStripMenuItem" />
+<Field Token="67108953" Name="rEMOVEDUPLICATESToolStripMenuItem" />
+<Field Token="67108954" Name="findWordsNotLinesToolStripMenuItem" />
+<Type Token="33554445" Name="RemoveDuplicateLines.frmDownloadUpdate" />
+<Method Token="100663397" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663398" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663399" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663400" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663401" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663402" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663403" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663404" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663405" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663406" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108955" Name="_DownloadFile" />
+<Field Token="67108956" Name="client" />
+<Field Token="67108957" Name="Cancelled" />
+<Field Token="67108958" Name="components" />
+<Field Token="67108959" Name="pgBar" />
+<Field Token="67108960" Name="btnCancelDownload" />
+<Field Token="67108961" Name="bwDownload" />
+<Field Token="67108962" Name="label1" />
+<Field Token="67108963" Name="lblTotalSize" />
+<Type Token="33554446" Name="RemoveDuplicateLines.frmError" />
+<Method Token="100663407" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663408" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663409" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663410" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108964" Name="components" />
+<Field Token="67108965" Name="txtError" />
+<Field Token="67108966" Name="pictureBox1" />
+<Field Token="67108967" Name="lblError" />
+<Field Token="67108968" Name="btnClose" />
+<Type Token="33554447" Name="RemoveDuplicateLines.frmLanguage" />
+<Method Token="100663411" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663412" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663413" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663415" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663416" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663417" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663418" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663419" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108969" Name="LangCodes" />
+<Field Token="67108970" Name="LangDesc" />
+<Field Token="67108971" Name="LangImg" />
+<Field Token="67108972" Name="SelectedLanguageCode" />
+<Field Token="67108973" Name="LangURL" />
+<Field Token="67108974" Name="RegKeyName" />
+<Field Token="67108975" Name="components" />
+<Field Token="67108976" Name="label1" />
+<Field Token="67108977" Name="cmbLanguage" />
+<Field Token="67108978" Name="btnOK" />
+<Type Token="33554449" Name="RemoveDuplicateLines.frmMain" />
+<Method Token="100663423" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663424" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663425" Name="bwAction_ProgressChanged" Variables="this;sender;e;V_0;max;val;V_3;" ParamCnt="3" />
+<Method Token="100663426" Name="frmMain_Resize" Variables="this;sender;e;width0;width;V_2;" ParamCnt="3" />
+<Method Token="100663427" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663428" Name="OnShown" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663429" Name="frmMain_ResizeEnd" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663430" Name="frmMain_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663431" Name="btnCopySource_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663432" Name="btnCopyResult_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663433" Name="btnClearSource_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663434" Name="btnClearResult_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663435" Name="tsbRemoveDuplicates_Click" Variables="this;sender;e;V_0;co;V_2;V_3;V_4;co;" ParamCnt="3" />
+<Method Token="100663436" Name="bwAction_DoWork" Variables="this;sender;e;V_0;res;res;" ParamCnt="3" />
+<Method Token="100663437" Name="bwAction_RunWorkerCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663438" Name="caseSensitiveStringComparisonToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663439" Name="donotSortToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663440" Name="sortAscendingToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663441" Name="sortDescendingToolStripMenuItem_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663442" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663443" Name="tsbOpenDocument_Click" Variables="this;sender;e;opf;V_1;V_2;filepath;txt;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663444" Name="tiSelectAllSource_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663445" Name="tiSelectAllResult_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663446" Name="btnNextSource_Click" Variables="this;sender;e;V_0;V_1;stpos;spos;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663447" Name="btnPrevSource_Click" Variables="this;sender;e;stpos;spos;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663448" Name="txtFindSource_KeyPress" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663449" Name="btnNextResult_Click" Variables="this;sender;e;V_0;V_1;stpos;spos;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663450" Name="btnPrevResult_Click" Variables="this;sender;e;stpos;spos;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663451" Name="txtFindResult_KeyPress" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663452" Name="clearToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663453" Name="findWordsNotLinesToolStripMenuItem_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663454" Name="findWordsNotLinesToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663455" Name="clearResultToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663456" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663457" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663458" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663459" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663460" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663461" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663462" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663463" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663464" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663465" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663466" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663467" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663468" Name="SetupOnLoad" Variables="this;" ParamCnt="1" />
+<Method Token="100663469" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663470" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663471" Name="batchRemoveDuplicatesForManyFilesToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663472" Name="exitToolStripMenuItem_Click_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663473" Name="timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663474" Name="timer2_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663475" Name="timer3_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663476" Name="buyApplicationToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663477" Name="enterLicenseKeyToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663478" Name="tsbSaveResult_Click" Variables="this;sender;e;sfd;V_1;V_2;V_3;" ParamCnt="3" />
+<Method Token="100663479" Name="frmMain_DragDrop" Variables="this;sender;e;V_0;filez;V_2;filepath;txt;V_5;V_6;" ParamCnt="3" />
+<Method Token="100663480" Name="frmMain_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663481" Name="frmMain_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663482" Name="commandLineArgumentsToolStripMenuItem_Click" Variables="this;sender;e;fm;" ParamCnt="3" />
+<Method Token="100663483" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663484" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108980" Name="Instance" />
+<Field Token="67108981" Name="RemoveDuplicateLinesHelper" />
+<Field Token="67108982" Name="bwAction" />
+<Field Token="67108983" Name="SourceString" />
+<Field Token="67108984" Name="InChangeLanguage" />
+<Field Token="67108985" Name="components" />
+<Field Token="67108986" Name="menuStrip1" />
+<Field Token="67108987" Name="fileToolStripMenuItem" />
+<Field Token="67108988" Name="toolStripMenuItem2" />
+<Field Token="67108989" Name="exitToolStripMenuItem" />
+<Field Token="67108990" Name="editToolStripMenuItem" />
+<Field Token="67108991" Name="clearToolStripMenuItem" />
+<Field Token="67108992" Name="tiSelectAllResult" />
+<Field Token="67108993" Name="optionsToolStripMenuItem" />
+<Field Token="67108994" Name="toolsToolStripMenuItem" />
+<Field Token="67108995" Name="languageToolStripMenuItem" />
+<Field Token="67108996" Name="languages1ToolStripMenuItem" />
+<Field Token="67108997" Name="languages2ToolStripMenuItem" />
+<Field Token="67108998" Name="buyToolStripMenuItem" />
+<Field Token="67108999" Name="buyApplicationToolStripMenuItem" />
+<Field Token="67109000" Name="enterLicenseKeyToolStripMenuItem" />
+<Field Token="67109001" Name="helpToolStripMenuItem" />
+<Field Token="67109002" Name="helpGuideToolStripMenuItem" />
+<Field Token="67109003" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67109004" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67109005" Name="tiHelpFeedback" />
+<Field Token="67109006" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67109007" Name="toolStripMenuItem1" />
+<Field Token="67109008" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67109009" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67109010" Name="aboutToolStripMenuItem" />
+<Field Token="67109011" Name="toolStrip1" />
+<Field Token="67109012" Name="tsbRemoveDuplicates" />
+<Field Token="67109013" Name="txtSource" />
+<Field Token="67109014" Name="txtResult" />
+<Field Token="67109015" Name="sortingToolStripMenuItem" />
+<Field Token="67109016" Name="donotSortToolStripMenuItem" />
+<Field Token="67109017" Name="sortAscendingToolStripMenuItem" />
+<Field Token="67109018" Name="sortDescendingToolStripMenuItem" />
+<Field Token="67109019" Name="lblSource" />
+<Field Token="67109020" Name="lblResult" />
+<Field Token="67109021" Name="btnCopyResult" />
+<Field Token="67109022" Name="btnClearResult" />
+<Field Token="67109023" Name="btnClearSource" />
+<Field Token="67109024" Name="btnCopySource" />
+<Field Token="67109025" Name="caseSensitiveStringComparisonToolStripMenuItem" />
+<Field Token="67109026" Name="rEMOVEDUPLICATESToolStripMenuItem" />
+<Field Token="67109027" Name="tsbOpenDocument" />
+<Field Token="67109028" Name="openDocumentToolStripMenuItem" />
+<Field Token="67109029" Name="tiSelectAllSource" />
+<Field Token="67109030" Name="txtFindSource" />
+<Field Token="67109031" Name="btnNextSource" />
+<Field Token="67109032" Name="btnPrevSource" />
+<Field Token="67109033" Name="btnPrevResult" />
+<Field Token="67109034" Name="btnNextResult" />
+<Field Token="67109035" Name="txtFindResult" />
+<Field Token="67109036" Name="findWordsNotLinesToolStripMenuItem" />
+<Field Token="67109037" Name="clearResultToolStripMenuItem" />
+<Field Token="67109038" Name="statusStrip1" />
+<Field Token="67109039" Name="pgbar" />
+<Field Token="67109040" Name="batchRemoveDuplicatesForManyFilesToolStripMenuItem" />
+<Field Token="67109041" Name="timer1" />
+<Field Token="67109042" Name="timer2" />
+<Field Token="67109043" Name="timer3" />
+<Field Token="67109044" Name="tsbSaveResult" />
+<Field Token="67109045" Name="toolStripSeparator1" />
+<Field Token="67109046" Name="saceResultToolStripMenuItem" />
+<Field Token="67109047" Name="toolStripMenuItem3" />
+<Field Token="67109048" Name="checkForUpdatesEachWeekToolStripMenuItem" />
+<Field Token="67109049" Name="commandLineArgumentsToolStripMenuItem" />
+<Type Token="33554450" Name="RemoveDuplicateLines.frmMessage" />
+<Method Token="100663485" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663486" Name=".ctor" Variables="this;forCmdArgs;" ParamCnt="2" />
+<Method Token="100663487" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663488" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663489" Name="btnCopy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663490" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663491" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109050" Name="ForCommandLineArgs" />
+<Field Token="67109051" Name="components" />
+<Field Token="67109052" Name="lblMsg" />
+<Field Token="67109053" Name="txtMsg" />
+<Field Token="67109054" Name="btnOK" />
+<Field Token="67109055" Name="chkShow" />
+<Field Token="67109056" Name="btnCopy" />
+<Type Token="33554451" Name="RemoveDuplicateLines.frmOutputSubFolder" />
+<Method Token="100663492" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663493" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663494" Name="btnOK_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663495" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663496" Name="frmOutputSubFolder_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663497" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663498" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109057" Name="components" />
+<Field Token="67109058" Name="btnOK" />
+<Field Token="67109059" Name="btnCancel" />
+<Field Token="67109060" Name="label1" />
+<Field Token="67109061" Name="txtSubfolder" />
+<Type Token="33554453" Name="RemoveDuplicateLines.frmProgress" />
+<Method Token="100663506" Name=".ctor" Variables="this;for_batch;V_0;" ParamCnt="2" />
+<Method Token="100663507" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663508" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663509" Name="get_Instance" Variables="V_0;V_1;" ParamCnt="0" />
+<Method Token="100663510" Name="set_Instance" Variables="value;" ParamCnt="1" />
+<Method Token="100663511" Name="HideForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663512" Name="ShowForm" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663513" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663514" Name="timTime_Tick" Variables="this;sender;e;ts;V_1;V_2;V_3;d1;d2;d3;d;id;V_9;d1;d2;d3;d;id;" ParamCnt="3" />
+<Method Token="100663515" Name="btnPause_Click" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663516" Name="btnStop_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663517" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663518" Name="frmProgress_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663519" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663520" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109068" Name="_Instance" />
+<Field Token="67109069" Name="PreviousTotalProgress" />
+<Field Token="67109070" Name="Secs" />
+<Field Token="67109071" Name="components" />
+<Field Token="67109072" Name="timTime" />
+<Field Token="67109073" Name="btnPause" />
+<Field Token="67109074" Name="btnStop" />
+<Field Token="67109075" Name="lblCaption" />
+<Field Token="67109076" Name="label2" />
+<Field Token="67109077" Name="lblRemainingTime" />
+<Field Token="67109078" Name="label1" />
+<Field Token="67109079" Name="lblElapsedTime" />
+<Field Token="67109080" Name="label3" />
+<Field Token="67109081" Name="lblOutputFile" />
+<Field Token="67109082" Name="progressBar1" />
+<Field Token="67109083" Name="lblJoinNumber" />
+<Field Token="67109084" Name="lblJoinNumberCaption" />
+<Field Token="67109085" Name="pbarTotal" />
+<Field Token="67109086" Name="lblTotal" />
+<Type Token="33554454" Name="RemoveDuplicateLines.frmPurchase" />
+<Method Token="100663521" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663522" Name=".ctor" Variables="this;msgtype;V_0;" ParamCnt="2" />
+<Method Token="100663523" Name=".ctor" Variables="this;msgtype;datefrom;datelast;V_0;V_1;dtfrom;dtlast;key;V_5;key;V_7;V_8;V_9;V_10;V_11;ts;days;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;f;" ParamCnt="4" />
+<Method Token="100663524" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663525" Name="frmPurchase_Load" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663526" Name="btnRegister_Click" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663527" Name="timContinue_Tick" Variables="this;sender;e;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663528" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663529" Name="OnPaint" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663530" Name="btnBuy_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663531" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Method Token="100663532" Name="btnRegister_Click_1" Variables="this;sender;e;f;V_1;" ParamCnt="3" />
+<Method Token="100663533" Name="btnExit_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663534" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663535" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67109087" Name="TrialDay" />
+<Field Token="67109088" Name="RemainingDays" />
+<Field Token="67109089" Name="TimerCount" />
+<Field Token="67109090" Name="RenMove" />
+<Field Token="67109091" Name="btnExitVisible" />
+<Field Token="67109092" Name="Msg" />
+<Field Token="67109093" Name="Datefrom" />
+<Field Token="67109094" Name="Datelast" />
+<Field Token="67109095" Name="Instance" />
+<Field Token="67109096" Name="components" />
+<Field Token="67109097" Name="btnBuy" />
+<Field Token="67109098" Name="lblMsg" />
+<Field Token="67109099" Name="btnClose" />
+<Field Token="67109100" Name="lblWait" />
+<Field Token="67109101" Name="timContinue" />
+<Field Token="67109102" Name="lblAppName" />
+<Field Token="67109103" Name="btnRegister" />
+<Field Token="67109104" Name="btnExit" />
+<Field Token="67109105" Name="label1" />
+<Type Token="33554455" Name="RemoveDuplicateLines.DisplayMessageType1" />
+<Field Token="67109106" Name="value__" />
+<Field Token="67109107" Name="License_Expired" />
+<Field Token="67109108" Name="License_N_Days_Remaining" />
+<Type Token="33554456" Name="RemoveDuplicateLines.FuzzyMatch" />
+<Method Token="100663536" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663537" Name="ExtractPreviousFuzzyMatch" Variables="helpcolumn;shelp;istart;iend;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663538" Name="SetFuzzyHelpColumnText" Variables="fuzzypercent;helpcolumn;shelp;istart;iend;ishelp;V_4;V_5;V_6;V_7;" ParamCnt="2" />
+<Method Token="100663539" Name="IsFuzzyMatchForReport" Variables="sNew;sOld;percent_fuzzy_from;percent_fuzzy_to;V_0;V_1;V_2;l;lp;V_5;" ParamCnt="4" />
+<Method Token="100663540" Name="IsFuzzyMatch" Variables="sNew;sOld;helpcolumn;ff;l;lp;V_3;iprevious;V_5;shelp;f;V_8;V_9;shelp;f;e;" ParamCnt="3" />
+<Type Token="33554457" Name="RemoveDuplicateLines.FuzzyMatchResult" />
+<Method Token="100663541" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109109" Name="IsFuzzy" />
+<Field Token="67109110" Name="helpcolumn" />
+<Type Token="33554458" Name="RemoveDuplicateLines.Levenshtein" />
+<Method Token="100663542" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663543" Name="iLD" Variables="this;sRow;sCol;RowLen;ColLen;RowIdx;ColIdx;Row_i;Col_j;cost;v0;v1;vTmp;max;V_11;V_12;V_13;V_14;V_15;V_16;V_17;m_min;b;c;V_21;V_22;V_23;V_24;V_25;" ParamCnt="3" />
+<Method Token="100663544" Name="Minimum" Variables="this;a;b;c;mi;V_1;V_2;V_3;" ParamCnt="4" />
+<Method Token="100663545" Name="LD" Variables="this;sNew;sOld;matrix;sNewLen;sOldLen;sNewIdx;sOldIdx;sNew_i;sOld_j;cost;max;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="3" />
+<Type Token="33554459" Name="RemoveDuplicateLines.ImageComboBox" />
+<Method Token="100663546" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663547" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663548" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663549" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;V_5;" ParamCnt="2" />
+<Field Token="67109111" Name="imageList" />
+<Type Token="33554460" Name="RemoveDuplicateLines.ComboBoxExItem" />
+<Method Token="100663550" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663551" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663552" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663553" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663554" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663555" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663556" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663557" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109112" Name="_text" />
+<Field Token="67109113" Name="_imageIndex" />
+<Type Token="33554461" Name="RemoveDuplicateLines.ImagesViewHelper" />
+<Method Token="100663558" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663559" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663560" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663561" Name="GeneratePreviewItems" Variables="sfilecontents;strDriveLetter;serNum;maxCompLen;VolLabel;VolFlags;FSName;Ret;elements;email;reg_key;myvl;datefrom;datelast;expired;ver;newversion;userkey;encrypted_kleidi_xristi;kx;ky;myar;var1;var2;var3;var4;num_encrypt;first_time;enc2;le;lp;sr;e;myba;data;key;iv;byteData;enc;tdes;ict;ex;V_42;iver;icurver;V_45;V_46;datfrom1;V_48;data;key;iv;byteData;enc;tdes;ict;ex;byteData;key;iv;tdes;ict;V_62;ex;V_64;V_65;V_66;dtfrom;dtlast;key;V_70;key;V_72;V_73;V_74;V_75;V_76;" ParamCnt="0" />
+<Method Token="100663562" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109114" Name="DtFrom" />
+<Field Token="67109115" Name="DtLast" />
+<Type Token="33554462" Name="RemoveDuplicateLines.SettingsHelper" />
+<Method Token="100663563" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663564" Name=".cctor" Variables="" ParamCnt="0" />
+<Field Token="67109116" Name="RenMove" />
+<Type Token="33554463" Name="RemoveDuplicateLines.InputModeHelper" />
+<Method Token="100663565" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663566" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663567" Name="GetVolumeInformation" Variables="PathName;VolumeNameBuffer;VolumeNameSize;VolumeSerialNumber;MaximumComponentLength;FileSystemFlags;FileSystemNameBuffer;FileSystemNameSize;" ParamCnt="8" />
+<Method Token="100663568" Name="AnalyzeSearch" Variables="email;serNum;maxCompLen;VolLabel;VolFlags;FSName;strDriveLetter;Ret;myvl;userkey;encrypted_kleidi_xristi;postCgi;dataLine;data;key;iv;byteData;enc;tdes;ict;ex;uri;request;bytes;outputStream;response;responseStream;reader;exp;V_29;V_30;reg_key;sfilecontents;elements;licfile;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_46;V_47;V_48;data;key;iv;byteData;enc;tdes;ict;ex;sw;e;exmain;" ParamCnt="0" />
+<Method Token="100663569" Name="Bin2Hex" Variables="bin;sb;V_1;V_2;b;V_4;" ParamCnt="1" />
+<Field Token="67109117" Name="frmad" />
+<Type Token="33554464" Name="RemoveDuplicateLines.MiscHelper" />
+<Method Token="100663570" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663571" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663572" Name="CurrentDomain_ProcessExit" Variables="sender;e;fi;dt_create;dt_last_modified;dt_last_accessed;sfilecontents;elements;reg_key;email;licfile;fi_after;sr;myba;data;key;iv;byteData;enc;tdes;ict;ex;k;V_21;dtfrom;V_23;V_24;V_25;V_26;V_27;mili;V_29;V_30;elm;V_32;V_33;V_34;data;key;iv;byteData;enc;tdes;ict;ex;sw;V_44;key;V_46;V_47;" ParamCnt="2" />
+<Method Token="100663573" Name="ParseDate" Variables="datestr;V_0;" ParamCnt="1" />
+<Field Token="67109118" Name="DateTimeFormat" />
+<Type Token="33554465" Name="RemoveDuplicateLines.Module" />
+<Method Token="100663574" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663575" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663576" Name="get_TempFolder" Variables="V_0;path;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663577" Name="set_TempFolder" Variables="value;" ParamCnt="1" />
+<Method Token="100663578" Name="get_ProfilesFile" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663579" Name="get_VideoOptionsFile" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663580" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663581" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663582" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663583" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663584" Name="ImageFromFile" Variables="path;bytes;ms;img;V_3;V_4;V_5;V_6;" ParamCnt="1" />
+<Method Token="100663585" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663586" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663587" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663588" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663589" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663590" Name="ShowError" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663591" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663592" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663593" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663594" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663595" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663596" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663597" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663598" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
+<Method Token="100663599" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
+<Method Token="100663600" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663601" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663602" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663603" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109119" Name="BlueForeColor" />
+<Field Token="67109120" Name="ApplicationName" />
+<Field Token="67109121" Name="Version" />
+<Field Token="67109122" Name="Ver" />
+<Field Token="67109123" Name="ShortApplicationTitle" />
+<Field Token="67109124" Name="ApplicationTitle" />
+<Field Token="67109125" Name="DownloadURL" />
+<Field Token="67109126" Name="HelpURL" />
+<Field Token="67109127" Name="ProductWebpageURL" />
+<Field Token="67109128" Name="BuyURL" />
+<Field Token="67109129" Name="VersionURL" />
+<Field Token="67109130" Name="TipText" />
+<Field Token="67109131" Name="GeneratedTemporaryFiles" />
+<Field Token="67109132" Name="TempFolders" />
+<Field Token="67109133" Name="OpenImagesFilter" />
+<Field Token="67109134" Name="OpenFilesFilter" />
+<Field Token="67109135" Name="AcceptableMediaInputPattern" />
+<Field Token="67109136" Name="_TempFolder" />
+<Field Token="67109137" Name="ScheduleMode" />
+<Field Token="67109138" Name="StealthMode" />
+<Field Token="67109139" Name="_ProfilesFile" />
+<Field Token="67109140" Name="_VideoOptionsFile" />
+<Field Token="67109141" Name="AppDataDirectory" />
+<Field Token="67109142" Name="CurrentImagesDirectory" />
+<Field Token="67109143" Name="SelectedLanguage" />
+<Field Token="67109144" Name="args" />
+<Field Token="67109145" Name="IsCommandLine" />
+<Field Token="67109146" Name="IsFromWindowsExplorer" />
+<Field Token="67109147" Name="DoNotOverwriteFiles" />
+<Field Token="67109148" Name="AskBeforeOverwrite" />
+<Field Token="67109149" Name="LeaveSameDateTime" />
+<Field Token="67109150" Name="OutputFilepath" />
+<Field Token="67109151" Name="_Modex64" />
+<Type Token="33554466" Name="RemoveDuplicateLines.NiceLine" />
+<Method Token="100663604" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663605" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663606" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663607" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663608" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663609" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663610" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663611" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663612" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663613" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663614" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663615" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663616" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663617" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663618" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663619" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109152" Name="components" />
+<Field Token="67109153" Name="_Caption" />
+<Field Token="67109154" Name="_CaptionMarginSpace" />
+<Field Token="67109155" Name="_CaptionPadding" />
+<Field Token="67109156" Name="_LineVerticalAlign" />
+<Field Token="67109157" Name="_CaptionOrizontalAlign" />
+<Type Token="33554467" Name="RemoveDuplicateLines.LineVerticalAlign" />
+<Field Token="67109158" Name="value__" />
+<Field Token="67109159" Name="Top" />
+<Field Token="67109160" Name="Middle" />
+<Field Token="67109161" Name="Bottom" />
+<Type Token="33554468" Name="RemoveDuplicateLines.CaptionOrizontalAlign" />
+<Field Token="67109162" Name="value__" />
+<Field Token="67109163" Name="Left" />
+<Field Token="67109164" Name="Center" />
+<Field Token="67109165" Name="Right" />
+<Type Token="33554469" Name="RemoveDuplicateLines.OfficeHelper" />
+<Method Token="100663620" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663621" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663622" Name="CreateWordApplication" Variables="wdAlertsNone;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="CreatePowerPointApplication" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663624" Name="QuitPowerPointApplication" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663625" Name="QuitWordApplication" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663626" Name="CreateExcelApplication" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663627" Name="QuitExcelApplication" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663628" Name="QuitOfficeApplications" Variables="proc;" ParamCnt="0" />
+<Field Token="67109166" Name="WordApp" />
+<Field Token="67109167" Name="WordApplicationType" />
+<Field Token="67109168" Name="ExcelApp" />
+<Field Token="67109169" Name="PPApp" />
+<Field Token="67109170" Name="ExcelApplicationType" />
+<Field Token="67109171" Name="PPApplicationType" />
+<Type Token="33554470" Name="RemoveDuplicateLines.OutputFolderHelper" />
+<Method Token="100663629" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663630" Name="SaveOutputFolder" Variables="folder;lst;lsi;cmbc;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;k;V_12;k;V_14;V_15;V_16;V_17;V_18;V_19;" ParamCnt="1" />
+<Method Token="100663631" Name="LoadOutputFolders" Variables="k;V_1;V_2;V_3;V_4;V_5;" ParamCnt="0" />
+<Type Token="33554471" Name="RemoveDuplicateLines.Program" />
+<Method Token="100663632" Name="FreeConsole" Variables="" ParamCnt="0" />
+<Method Token="100663633" Name="AttachConsole" Variables="dwProcessId;" ParamCnt="1" />
+<Method Token="100663634" Name="AllocConsole" Variables="" ParamCnt="0" />
+<Method Token="100663635" Name="Main" Variables="args;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Field Token="67109172" Name="ATTACH_PARENT_PROCESS" />
+<Field Token="67109173" Name="ERROR_ACCESS_DENIED" />
+<Type Token="33554472" Name="RemoveDuplicateLines.RecentFilesHelper" />
+<Method Token="100663636" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663637" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663638" Name="FillRecentOutputFile" Variables="" ParamCnt="0" />
+<Method Token="100663639" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663640" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663641" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663642" Name="AddRecentOutputFile" Variables="filepath;" ParamCnt="1" />
+<Method Token="100663643" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663644" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663645" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
+<Type Token="33554473" Name="RemoveDuplicateLines.RemoveDuplicateLinesHelper" />
+<Method Token="100663646" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663647" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663648" Name="RemoveDuplicateWords" Variables="this;txt;sort;line;regex;macol;delchars;newtxt;k;lr;V_7;V_8;V_9;k;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663649" Name="RemoveDuplicateLines" Variables="this;txt;sort;V_0;" ParamCnt="3" />
+<Method Token="100663650" Name="RemoveDuplicateLines" Variables="this;txt;sort;forBatch;line;sb;k;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;k;V_15;V_16;" ParamCnt="4" />
+<Method Token="100663651" Name="bw_DoWork" Variables="this;sender;e;kk;len;j;V_3;n;V_5;V_6;V_7;m;V_9;V_10;V_11;V_12;V_13;" ParamCnt="3" />
+<Field Token="67109174" Name="ThreadCount" />
+<Field Token="67109175" Name="bWorkers" />
+<Field Token="67109176" Name="lst" />
+<Field Token="67109177" Name="ForBatch" />
+<Type Token="33554474" Name="RemoveDuplicateLines.HashTreeNode" />
+<Method Token="100663652" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109178" Name="Hash" />
+<Field Token="67109179" Name="Lines" />
+<Field Token="67109180" Name="SubHashes" />
+<Type Token="33554475" Name="RemoveDuplicateLines.HashSortList" />
+<Method Token="100663653" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663654" Name="HashSort" Variables="this;hashnode;k;currentHashNode;line;mod;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663655" Name="HashSortList_DoWork" Variables="this;sender;e;lst;line;hashnode;" ParamCnt="3" />
+<Method Token="100663656" Name="FindAndAddHashTreeNode" Variables="this;currentHash;line;parentHashTreeNode;str;V_1;V_2;V_3;contains;V_5;V_6;V_7;hn;V_9;V_10;entry;V_12;V_13;hn;" ParamCnt="4" />
+<Field Token="67109181" Name="Hashes" />
+<Type Token="33554476" Name="RemoveDuplicateLines.LineSorterLine" />
+<Method Token="100663657" Name=".ctor" Variables="this;val;index;" ParamCnt="3" />
+<Method Token="100663658" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663659" Name="CompareTo" Variables="this;as2;V_0;V_1;V_2;V_3;V_4;sort;V_6;" ParamCnt="2" />
+<Field Token="67109182" Name="Value" />
+<Field Token="67109183" Name="Index" />
+<Field Token="67109184" Name="Length" />
+<Field Token="67109185" Name="Include" />
+<Field Token="67109186" Name="SortMode" />
+<Type Token="33554477" Name="RemoveDuplicateLines.ResFlags" />
+<Method Token="100663660" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663661" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663662" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663663" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663664" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663665" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663666" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663667" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663668" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663669" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663670" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663671" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663672" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663673" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663674" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663675" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663676" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663677" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663678" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663679" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663680" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663681" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663682" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663683" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663684" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663685" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663686" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663687" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663688" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663689" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663690" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663691" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663692" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663693" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663694" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663695" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663696" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663697" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663698" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663699" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663700" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663701" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663702" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663703" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663704" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663705" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663706" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663707" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663708" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663709" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663710" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109187" Name="resourceMan" />
+<Field Token="67109188" Name="resourceCulture" />
+<Type Token="33554478" Name="RemoveDuplicateLines.ResRegister" />
+<Method Token="100663711" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663712" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663713" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663714" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663715" Name="get_Add_new_search_item_to_project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663716" Name="get_Continue_activated_search_" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663717" Name="get_Direct_search_started" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663718" Name="get_Edit_4dots_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663719" Name="get_Erroneous_search_2" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663720" Name="get_Error_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663721" Name="get_Error_12" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663722" Name="get_Error_4" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663723" Name="get_Import_search_result" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663724" Name="get_Init_Project" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663725" Name="get_MessageTitle" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663726" Name="get_MessageTitle7" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663727" Name="get_MessageTitle8" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663728" Name="get_Search_duration_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663729" Name="get_String1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663730" Name="get_Uniform_process" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663731" Name="get_Αλλαγή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663732" Name="get_Αλλαγή_στοιχείων_εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663733" Name="get_Αλλαγή_Φίλτρου_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663734" Name="get_Ανανέωση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663735" Name="get_Εισαγωγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663736" Name="get_Εναλλαγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663737" Name="get_Καθορισμός_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663738" Name="get_Μορφοποίηση_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663739" Name="get_Νέα_Εικόνα" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663740" Name="get_Παράμετροι_Μετρήσεως_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663741" Name="get_Περιγραφή_Ονόματος" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663742" Name="get_Πηγή_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663743" Name="get_Προβολή_Εικόνας_1" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663744" Name="get_Προβολή_Εικόνων" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663745" Name="get_Σφάλμα_120" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663746" Name="get_Σφάλμα_1201" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663747" Name="get_Υπολογισμός_Επιφάνειας" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663748" Name="get_Φίλτρο_Εικόνας" Variables="V_0;" ParamCnt="0" />
+<Field Token="67109189" Name="resourceMan" />
+<Field Token="67109190" Name="resourceCulture" />
+<Type Token="33554479" Name="RemoveDuplicateLines.ResTranslate" />
+<Method Token="100663749" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663750" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663751" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663752" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109191" Name="resourceMan" />
+<Field Token="67109192" Name="resourceCulture" />
+<Type Token="33554480" Name="RemoveDuplicateLines.TranslateHelper" />
+<Method Token="100663753" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663754" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663755" Name="Translate" Variables="str;V_0;V_1;V_2;cm;V_4;cm;trnstr;V_7;V_8;V_9;V_10;V_11;V_12;" ParamCnt="1" />
+<Field Token="67109193" Name="rm" />
+<Field Token="67109194" Name="rm2" />
+<Type Token="33554481" Name="RemoveDuplicateLines.ucTextProgressBar" />
+<Method Token="100663756" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663757" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663758" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663759" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663760" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663761" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663762" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109195" Name="lblText" />
+<Field Token="67109196" Name="WmPaint" />
+<Field Token="67109197" Name="components" />
+<Type Token="33554482" Name="RemoveDuplicateLines.UpdateHelper" />
+<Method Token="100663763" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663764" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663765" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663766" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663767" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663768" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663769" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663770" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663771" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663772" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109198" Name="bwCheckVersion" />
+<Type Token="33554483" Name="RemoveDuplicateLines.CheckVersionResult" />
+<Method Token="100663773" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109199" Name="NewVersionReleased" />
+<Field Token="67109200" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109201" Name="OutputMessage" />
+<Type Token="33554484" Name="RemoveDuplicateLines.URLLinkLabel" />
+<Method Token="100663774" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663775" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554485" Name="RemoveDuplicateLines.Properties.Resources" />
+<Method Token="100663776" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663777" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663778" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663779" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663780" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663781" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663782" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663783" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663784" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663785" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663786" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663787" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663788" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663789" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663790" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663791" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663792" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663793" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663794" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663795" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663796" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663797" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663798" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663799" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663800" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663801" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663802" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663803" Name="get_disk_blue1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663804" Name="get_document_into" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663805" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663806" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663807" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663808" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663809" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663810" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663811" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663812" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663813" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663814" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663815" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663816" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663817" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663818" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663819" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663820" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663821" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663822" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663823" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663824" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663825" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663826" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663827" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663828" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663829" Name="get_text_align_justified" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663830" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663831" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663832" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663833" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109202" Name="resourceMan" />
+<Field Token="67109203" Name="resourceCulture" />
+<Type Token="33554486" Name="RemoveDuplicateLines.Properties.Settings" />
+<Method Token="100663834" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663835" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663836" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663837" Name="get_SortMode" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663838" Name="set_SortMode" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663839" Name="get_CaseSensitiveStringComparison" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663840" Name="set_CaseSensitiveStringComparison" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663841" Name="get_LastDocument" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663842" Name="set_LastDocument" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663843" Name="get_FindWords" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663844" Name="set_FindWords" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663845" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663846" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663847" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663848" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663849" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663850" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663851" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663852" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663853" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663854" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663855" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663856" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663857" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663858" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663859" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663860" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663861" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663862" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663863" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663864" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663865" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663866" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663867" Name="get_ShowMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663868" Name="set_ShowMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663869" Name="get_KeepParentFolderPath" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663870" Name="set_KeepParentFolderPath" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663871" Name="get_KeepBackup" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663872" Name="set_KeepBackup" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663873" Name="get_OutputFolder1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663874" Name="set_OutputFolder1" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663875" Name="get_OutputFolder2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663876" Name="set_OutputFolder2" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663877" Name="get_OutputFolder3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663878" Name="set_OutputFolder3" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663879" Name="get_OutputFolder4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663880" Name="set_OutputFolder4" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663881" Name="get_OutputFolder5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663882" Name="set_OutputFolder5" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663883" Name="get_OutputFolderIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663884" Name="set_OutputFolderIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663885" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663886" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109204" Name="defaultInstance" />
+<Type Token="33554487" Name="RemoveDuplicateLines.frmProgress/HideFormDelegate" />
+<Method Token="100663887" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663888" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663889" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663890" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554488" Name="RemoveDuplicateLines.frmProgress/ShowFormDelegate" />
+<Method Token="100663891" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663892" Name="Invoke" Variables="this;" ParamCnt="1" />
+<Method Token="100663893" Name="BeginInvoke" Variables="this;callback;object;" ParamCnt="3" />
+<Method Token="100663894" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663307" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
